@@ -10,6 +10,7 @@
 ![분할정복](https://img.shields.io/badge/분할정복-2-orange?style=flat-square)
 ![DP](https://img.shields.io/badge/DP-1-red?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-2-purple?style=flat-square)
+![정렬](https://img.shields.io/badge/정렬-1-critical?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
 
