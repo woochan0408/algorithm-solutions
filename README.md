@@ -6,7 +6,19 @@
 
 ---
 
-## 📁 폴더 구조
+## 📝 문제 풀이 목록
+
+| 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | 다시풀기 |
+|------|--------|------|------|------|---------|----------|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./BFS_DFS/푸앙이와콩나무_33677.md">풀이</a> | 2026-01-14 | ✅ |
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2579" target="_blank">🪜 계단 오르기</a> | 백준 | <a href="./DP/계단오르기_2579.md">풀이</a> | 2026-01-14 |  |
+| 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1654" target="_blank">🔌 랜선 자르기</a> | 백준 | <a href="./Binary_Search/랜선자르기_1654.md">풀이</a> | 2026-01-14 | ✅ |
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2606" target="_blank">🦠 바이러스</a> | 백준 | <a href="./BFS_DFS/바이러스_2606.md">풀이</a> | 2026-01-14 |  |
+| 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2630" target="_blank">🟦 색종이 만들기</a> | 백준 | <a href="./Divide_Conquer/색종이만들기_2630.md">풀이</a> | 2026-01-14 |  |
+
+---
+
+## 📁 알고리즘별 분류
 
 | 폴더명 | 유형 |
 |--------|------|
@@ -14,6 +26,7 @@
 | [DP](./DP) | 다이나믹 프로그래밍 |
 | [Greedy](./Greedy) | 그리디 |
 | [Implementation](./Implementation) | 구현 |
+| [Divide_Conquer](./Divide_Conquer) | 분할정복 |
 | [Binary_Search](./Binary_Search) | 이분탐색 |
 | [Brute_Force](./Brute_Force) | 브루트포스 |
 | [Backtracking](./Backtracking) | 백트래킹 |
@@ -33,39 +46,7 @@
 
 ---
 
-## 📝 문제 풀이 목록
-
-| 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | 다시풀기 |
-|------|--------|------|------|------|---------|----------|
-
----
-
-## 🔖 범례
-
-### 난이도
-
-**백준 (solved.ac)**
-
-| 티어 | 아이콘 |
-|------|--------|
-| 브론즈 | <img height="20px" src="https://static.solved.ac/tier_small/5.svg"/> |
-| 실버 | <img height="20px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 골드 | <img height="20px" src="https://static.solved.ac/tier_small/15.svg"/> |
-| 플래티넘 | <img height="20px" src="https://static.solved.ac/tier_small/20.svg"/> |
-| 다이아 | <img height="20px" src="https://static.solved.ac/tier_small/25.svg"/> |
-| 루비 | <img height="20px" src="https://static.solved.ac/tier_small/30.svg"/> |
-
-**프로그래머스**: Lv.1 ~ Lv.5
-
-### 다시풀기
-
-| 표시 | 의미 |
-|------|------|
-| ✅ | 답지 참고 → 다시 풀어야 함 |
-| (빈칸) | 스스로 해결 |
-
----
 
 ## 📚 기술 블로그
 
-더 자세한 풀이와 개념 정리는 [Velog](https://velog.io/@tesabel)에서 확인하세요.
+[Velog](https://velog.io/@tesabel)
