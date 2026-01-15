@@ -1,0 +1,71 @@
+# 🧩 Algorithm Solutions
+
+> 코딩테스트 문제풀이 기록
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
+
+---
+
+## 📁 폴더 구조
+
+| 폴더명 | 유형 |
+|--------|------|
+| [BFS_DFS](./BFS_DFS) | BFS/DFS |
+| [DP](./DP) | 다이나믹 프로그래밍 |
+| [Greedy](./Greedy) | 그리디 |
+| [Implementation](./Implementation) | 구현 |
+| [Binary_Search](./Binary_Search) | 이분탐색 |
+| [Brute_Force](./Brute_Force) | 브루트포스 |
+| [Backtracking](./Backtracking) | 백트래킹 |
+| [Graph](./Graph) | 그래프 |
+| [Sorting](./Sorting) | 정렬 |
+| [Stack_Queue](./Stack_Queue) | 스택/큐 |
+| [String](./String) | 문자열 |
+| [Math](./Math) | 수학 |
+| [Tree](./Tree) | 트리 |
+| [Union_Find](./Union_Find) | 유니온파인드 |
+| [Shortest_Path](./Shortest_Path) | 최단경로 |
+| [Two_Pointer](./Two_Pointer) | 투포인터 |
+| [Sliding_Window](./Sliding_Window) | 슬라이딩윈도우 |
+| [Bitmask](./Bitmask) | 비트마스킹 |
+| [Segment_Tree](./Segment_Tree) | 세그먼트트리 |
+| [Topological_Sort](./Topological_Sort) | 위상정렬 |
+
+---
+
+## 📝 문제 풀이 목록
+
+| 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | 다시풀기 |
+|------|--------|------|------|------|---------|----------|
+
+---
+
+## 🔖 범례
+
+### 난이도
+
+**백준 (solved.ac)**
+
+| 티어 | 아이콘 |
+|------|--------|
+| 브론즈 | <img height="20px" src="https://static.solved.ac/tier_small/5.svg"/> |
+| 실버 | <img height="20px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 골드 | <img height="20px" src="https://static.solved.ac/tier_small/15.svg"/> |
+| 플래티넘 | <img height="20px" src="https://static.solved.ac/tier_small/20.svg"/> |
+| 다이아 | <img height="20px" src="https://static.solved.ac/tier_small/25.svg"/> |
+| 루비 | <img height="20px" src="https://static.solved.ac/tier_small/30.svg"/> |
+
+**프로그래머스**: Lv.1 ~ Lv.5
+
+### 다시풀기
+
+| 표시 | 의미 |
+|------|------|
+| ✅ | 답지 참고 → 다시 풀어야 함 |
+| (빈칸) | 스스로 해결 |
+
+---
+
+## 📚 기술 블로그
+
+더 자세한 풀이와 개념 정리는 [Velog](https://velog.io/@tesabel)에서 확인하세요.
