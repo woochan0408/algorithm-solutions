@@ -4,10 +4,8 @@ README 통계 자동 업데이트 스크립트
 solutions 폴더 내 파일 개수를 세서 README.md 뱃지를 업데이트합니다.
 """
 
-import os
 import re
 from pathlib import Path
-from urllib.parse import quote
 
 # 프로젝트 루트 경로
 ROOT_DIR = Path(__file__).parent.parent
@@ -99,28 +97,23 @@ def get_all_stats() -> dict:
 
 def update_badge(content: str, label: str, count: int, color: str = "blue") -> str:
     """README 내용에서 특정 뱃지의 숫자를 업데이트합니다"""
-    
-    # URL 인코딩된 라벨 생성
-    encoded_label = quote(label, safe='')
-    
-    # 다양한 뱃지 패턴 매칭 (숫자만 업데이트)
-    patterns = [
-        # 기본 패턴: ![Label](https://img.shields.io/badge/Label-숫자-color)
-        (
-            rf'(\!\[{re.escape(label)}\]\(https://img\.shields\.io/badge/{re.escape(encoded_label)})-(\d+)(-[^)]+\))',
-            rf'\g<1>-{count}\g<3>'
-        ),
-        # Total 패턴: Total-숫자%20problems
-        (
-            rf'(\!\[Total\]\(https://img\.shields\.io/badge/Total)-(\d+)(%20problems-[^)]+\))',
-            rf'\g<1>-{count}\g<3>'
-        ),
-    ]
-    
-    for pattern, replacement in patterns:
-        content = re.sub(pattern, replacement, content)
-    
+
+    # 배지 URL에서는 슬래시만 인코딩, 한글은 그대로 사용
+    badge_label = label.replace("/", "%2F")
+
+    # 패턴: ![Label](https://img.shields.io/badge/Label-숫자-color)
+    pattern = rf'(\!\[{re.escape(label)}\]\(https://img\.shields\.io/badge/{re.escape(badge_label)})-(\d+)(-[^)]+\))'
+    replacement = rf'\g<1>-{count}\g<3>'
+
+    content = re.sub(pattern, replacement, content)
     return content
+
+
+def update_total_badge(content: str, total: int) -> str:
+    """Total 뱃지를 업데이트합니다"""
+    pattern = rf'(\!\[Total\]\(https://img\.shields\.io/badge/Total)-(\d+)(%20problems-[^)]+\))'
+    replacement = rf'\g<1>-{total}\g<3>'
+    return re.sub(pattern, replacement, content)
 
 
 def update_readme(stats: dict) -> bool:
@@ -132,15 +125,15 @@ def update_readme(stats: dict) -> bool:
     
     content = README_PATH.read_text(encoding="utf-8")
     original_content = content
-    
-    # Total 뱃지 업데이트
-    content = update_badge(content, "Total", stats["Total"])
-    
+
+    # Total 뱃지 업데이트 (별도 함수 사용)
+    content = update_total_badge(content, stats["Total"])
+
     # 각 카테고리 뱃지 업데이트
     for label, folder_name in FOLDER_MAPPING.items():
         if "%" in label:  # URL 인코딩된 버전은 스킵 (원본만 처리)
             continue
-        
+
         count = stats.get(folder_name, 0)
         if count > 0:  # 0인 경우는 뱃지 유지 또는 업데이트 선택
             color = BADGE_COLORS.get(folder_name, "blue")
