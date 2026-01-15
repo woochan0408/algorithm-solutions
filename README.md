@@ -42,6 +42,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1697" target="_blank">🏃 숨바꼭질</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질_1697.md">풀이</a> | 2026-01-15 |  |  |
 | 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/18870" target="_blank">📊 좌표 압축</a> | 백준 | <a href="./solutions/Sorting/좌표압축_18870.md">풀이</a> | 2026-01-15 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2805" target="_blank">🌲 나무 자르기</a> | 백준 | <a href="./solutions/Binary_Search/나무자르기_2805.md">풀이</a> | 2026-01-15 |  |  |
 | 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1074" target="_blank">⚡ Z</a> | 백준 | <a href="./solutions/Divide_Conquer/Z_1074.md">풀이</a> | 2026-01-15 |  |  |
