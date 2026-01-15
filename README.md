@@ -4,13 +4,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-9%20problems-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-9%20problems-0052CC?style=flat-square)
 <br>
-![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-3-green?style=flat-square)
-![분할정복](https://img.shields.io/badge/분할정복-2-orange?style=flat-square)
-![DP](https://img.shields.io/badge/DP-1-red?style=flat-square)
-![이분탐색](https://img.shields.io/badge/이분탐색-2-purple?style=flat-square)
-![정렬](https://img.shields.io/badge/정렬-1-critical?style=flat-square)
+![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-3-00C853?style=flat-square)
+![분할정복](https://img.shields.io/badge/분할정복-2-7C4DFF?style=flat-square)
+![DP](https://img.shields.io/badge/DP-1-FF5252?style=flat-square)
+![이분탐색](https://img.shields.io/badge/이분탐색-2-00BCD4?style=flat-square)
+![정렬](https://img.shields.io/badge/정렬-1-FFCA28?style=flat-square)
+![구현](https://img.shields.io/badge/구현-1-FF69B4?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
 
@@ -43,6 +44,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://boj.kr/465
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1697" target="_blank">🏃 숨바꼭질</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질_1697.md">풀이</a> | 2026-01-15 |  |  |
 | 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/18870" target="_blank">📊 좌표 압축</a> | 백준 | <a href="./solutions/Sorting/좌표압축_18870.md">풀이</a> | 2026-01-15 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2805" target="_blank">🌲 나무 자르기</a> | 백준 | <a href="./solutions/Binary_Search/나무자르기_2805.md">풀이</a> | 2026-01-15 |  |  |
