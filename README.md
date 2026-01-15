@@ -1,20 +1,6 @@
-# 🧩 Algorithm Solutions
+# Algorithm Solutions
 
 > 코딩테스트 문제풀이 기록
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
-
----
-
-## 📝 문제 풀이 목록
-
-| 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | 다시풀기 |
-|------|--------|------|------|------|---------|----------|
-| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./BFS_DFS/푸앙이와콩나무_33677.md">풀이</a> | 2026-01-14 | ✅ |
-| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2579" target="_blank">🪜 계단 오르기</a> | 백준 | <a href="./DP/계단오르기_2579.md">풀이</a> | 2026-01-14 |  |
-| 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1654" target="_blank">🔌 랜선 자르기</a> | 백준 | <a href="./Binary_Search/랜선자르기_1654.md">풀이</a> | 2026-01-14 | ✅ |
-| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2606" target="_blank">🦠 바이러스</a> | 백준 | <a href="./BFS_DFS/바이러스_2606.md">풀이</a> | 2026-01-14 |  |
-| 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2630" target="_blank">🟦 색종이 만들기</a> | 백준 | <a href="./Divide_Conquer/색종이만들기_2630.md">풀이</a> | 2026-01-14 |  |
 
 ---
 
@@ -46,7 +32,14 @@
 
 ---
 
+## 📝 문제 풀이 목록
 
-## 📚 기술 블로그
+| 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | 다시풀기 |
+|------|--------|------|------|------|---------|----------|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_33677.md">풀이</a> | 2026-01-14 | ✅ |
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2579" target="_blank">🪜 계단 오르기</a> | 백준 | <a href="./solutions/DP/계단오르기_2579.md">풀이</a> | 2026-01-14 |  |
+| 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1654" target="_blank">🔌 랜선 자르기</a> | 백준 | <a href="./solutions/Binary_Search/랜선자르기_1654.md">풀이</a> | 2026-01-14 | ✅ |
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2606" target="_blank">🦠 바이러스</a> | 백준 | <a href="./solutions/BFS_DFS/바이러스_2606.md">풀이</a> | 2026-01-14 |  |
+| 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2630" target="_blank">🟦 색종이 만들기</a> | 백준 | <a href="./solutions/Divide_Conquer/색종이만들기_2630.md">풀이</a> | 2026-01-14 |  |
 
-[Velog](https://velog.io/@tesabel)
+---
