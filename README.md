@@ -44,7 +44,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://boj.kr/465
+| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://boj.kr/4659" target="_blank">🔐 비밀번호 발음하기</a> | 백준 | <a href="./solutions/Implementation/비밀번호발음하기_4659.md">풀이</a> | 2026-01-15 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1697" target="_blank">🏃 숨바꼭질</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질_1697.md">풀이</a> | 2026-01-15 |  |  |
 | 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/18870" target="_blank">📊 좌표 압축</a> | 백준 | <a href="./solutions/Sorting/좌표압축_18870.md">풀이</a> | 2026-01-15 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2805" target="_blank">🌲 나무 자르기</a> | 백준 | <a href="./solutions/Binary_Search/나무자르기_2805.md">풀이</a> | 2026-01-15 |  |  |
