@@ -12,6 +12,7 @@
 ![이분탐색](https://img.shields.io/badge/이분탐색-2-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-1-FFCA28?style=flat-square)
 ![구현](https://img.shields.io/badge/구현-1-FF69B4?style=flat-square)
+![누적합](https://img.shields.io/badge/누적합-0-9E9E9E?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
 
@@ -33,6 +34,7 @@
 |  |  |  |  | [문자열](./solutions/String) |
 |  |  |  |  | [정렬](./solutions/Sorting) |
 |  |  |  |  | [수학](./solutions/Math) |
+|  |  |  |  | [누적합](./solutions/Prefix_Sum) |
 
 </div>
 

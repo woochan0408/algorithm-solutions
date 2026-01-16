@@ -37,6 +37,7 @@ FOLDER_MAPPING = {
     "수학": "Math",
     "구현": "Implementation",
     "최단경로": "Shortest_Path",
+    "누적합": "Prefix_Sum",
 }
 
 # 뱃지 색상 매핑 (원하는 대로 커스터마이즈)
@@ -62,6 +63,7 @@ BADGE_COLORS = {
     "Math": "ff6347",
     "Implementation": "lightblue",
     "Shortest_Path": "gold",
+    "Prefix_Sum": "9E9E9E",
 }
 
 
