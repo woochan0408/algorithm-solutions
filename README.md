@@ -46,6 +46,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/14940" target="_blank">🗺️ 쉬운 최단거리</a> | 백준 | <a href="./solutions/BFS_DFS/쉬운최단거리_14940.md">풀이</a> | 2026-01-16 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11726" target="_blank">🧱 2×n 타일링</a> | 백준 | <a href="./solutions/DP/2xn타일링_11726.md">풀이</a> | 2026-01-16 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/11724" target="_blank">🔗 연결 요소의 개수</a> | 백준 | <a href="./solutions/BFS_DFS/연결요소의개수_11724.md">풀이</a> | 2026-01-16 |  |  |
 | 누적합 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11659" target="_blank">➕ 구간 합 구하기 4</a> | 백준 | <a href="./solutions/Prefix_Sum/구간합구하기4_11659.md">풀이</a> | 2026-01-16 |  |  |
