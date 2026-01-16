@@ -26,7 +26,6 @@
 
 | 탐색 | 그래프 | 자료구조 | 최적화 | 기법 |
 |:---:|:---:|:---:|:---:|:---:|
-| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11726" target="_blank">🧱 2×n 타일링</a> | 백준 | <a href="./solutions/DP/2xn타일링_11726.md">풀이</a> | 2026-01-16 |  |  |
 | [BFS/DFS](./solutions/BFS_DFS) | [그래프](./solutions/Graph) | [스택/큐](./solutions/Stack_Queue) | [DP](./solutions/DP) | [구현](./solutions/Implementation) |
 | [이분탐색](./solutions/Binary_Search) | [최단경로](./solutions/Shortest_Path) | [트리](./solutions/Tree) | [그리디](./solutions/Greedy) | [백트래킹](./solutions/Backtracking) |
 | [브루트포스](./solutions/Brute_Force) | [위상정렬](./solutions/Topological_Sort) | [세그먼트트리](./solutions/Segment_Tree) | [분할정복](./solutions/Divide_Conquer) | [비트마스킹](./solutions/Bitmask) |
@@ -47,6 +46,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11726" target="_blank">🧱 2×n 타일링</a> | 백준 | <a href="./solutions/DP/2xn타일링_11726.md">풀이</a> | 2026-01-16 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/11724" target="_blank">🔗 연결 요소의 개수</a> | 백준 | <a href="./solutions/BFS_DFS/연결요소의개수_11724.md">풀이</a> | 2026-01-16 |  |  |
 | 누적합 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11659" target="_blank">➕ 구간 합 구하기 4</a> | 백준 | <a href="./solutions/Prefix_Sum/구간합구하기4_11659.md">풀이</a> | 2026-01-16 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/1003" target="_blank">🐇 피보나치 함수</a> | 백준 | <a href="./solutions/DP/피보나치함수_1003.md">풀이</a> | 2026-01-16 |  |  |
