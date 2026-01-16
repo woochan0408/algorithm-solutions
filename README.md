@@ -46,6 +46,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 누적합 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11659" target="_blank">➕ 구간 합 구하기 4</a> | 백준 | <a href="./solutions/Prefix_Sum/구간합구하기4_11659.md">풀이</a> | 2026-01-16 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/1003" target="_blank">🐇 피보나치 함수</a> | 백준 | <a href="./solutions/DP/피보나치함수_1003.md">풀이</a> | 2026-01-16 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://boj.kr/4659" target="_blank">🔐 비밀번호 발음하기</a> | 백준 | <a href="./solutions/Implementation/비밀번호발음하기_4659.md">풀이</a> | 2026-01-15 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1697" target="_blank">🏃 숨바꼭질</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질_1697.md">풀이</a> | 2026-01-15 |  |  |
