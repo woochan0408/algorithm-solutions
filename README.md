@@ -47,6 +47,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/2206" target="_blank">🧱 벽 부수고 이동하기</a> | 백준 | <a href="./solutions/BFS_DFS/벽부수고이동하기_2206.md">풀이</a> | 2026-01-18 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1149" target="_blank">🎨 RGB거리</a> | 백준 | <a href="./solutions/DP/RGB거리_1149.md">풀이</a> | 2026-01-18 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2096" target="_blank">⬇️ 내려가기</a> | 백준 | <a href="./solutions/DP/내려가기_2096.md">풀이</a> | 2026-01-18 |  |  |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15650" target="_blank">🔢 N과 M (2)</a> | 백준 | <a href="./solutions/Backtracking/N과M(2)_15650.md">풀이</a> | 2026-01-18 |  |  |
