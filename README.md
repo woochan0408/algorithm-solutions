@@ -47,6 +47,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2096" target="_blank">⬇️ 내려가기</a> | 백준 | <a href="./solutions/DP/내려가기_2096.md">풀이</a> | 2026-01-18 |  |  |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15650" target="_blank">🔢 N과 M (2)</a> | 백준 | <a href="./solutions/Backtracking/N과M(2)_15650.md">풀이</a> | 2026-01-18 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/12865" target="_blank">🎒 평범한 배낭</a> | 백준 | <a href="./solutions/DP/평범한배낭_12865.md">풀이</a> | 2026-01-17 |  | ✅ |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/14940" target="_blank">🗺️ 쉬운 최단거리</a> | 백준 | <a href="./solutions/BFS_DFS/쉬운최단거리_14940.md">풀이</a> | 2026-01-16 |  |  |
