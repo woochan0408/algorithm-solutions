@@ -13,6 +13,7 @@
 ![정렬](https://img.shields.io/badge/정렬-1-FFCA28?style=flat-square)
 ![구현](https://img.shields.io/badge/구현-1-FF69B4?style=flat-square)
 ![누적합](https://img.shields.io/badge/누적합-1-9E9E9E?style=flat-square)
+![백트래킹](https://img.shields.io/badge/백트래킹-1-FF6F00?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
 
@@ -46,6 +47,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15650" target="_blank">🔢 N과 M (2)</a> | 백준 | <a href="./solutions/Backtracking/N과M(2)_15650.md">풀이</a> | 2026-01-18 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/12865" target="_blank">🎒 평범한 배낭</a> | 백준 | <a href="./solutions/DP/평범한배낭_12865.md">풀이</a> | 2026-01-17 |  | ✅ |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/14940" target="_blank">🗺️ 쉬운 최단거리</a> | 백준 | <a href="./solutions/BFS_DFS/쉬운최단거리_14940.md">풀이</a> | 2026-01-16 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11726" target="_blank">🧱 2×n 타일링</a> | 백준 | <a href="./solutions/DP/2xn타일링_11726.md">풀이</a> | 2026-01-16 |  |  |
