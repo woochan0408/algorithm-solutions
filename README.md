@@ -41,6 +41,16 @@
 
 ---
 
+## 🗄️ SQL
+
+<div align="center">
+
+[![SQL 문제 풀이](https://img.shields.io/badge/SQL%20문제%20풀이-바로가기-4A90D9?style=for-the-badge)](./SQL)
+
+</div>
+
+---
+
 ## 📝 문제 풀이 목록
 
 <div align="center">
