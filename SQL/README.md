@@ -2,6 +2,6 @@
 
 ## 문제 목록
 
-| 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | 다시풀기 |
+| 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
 | <img src="https://img.shields.io/badge/집합%20연산-00BCD4"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131537" target="_blank">오프라인/온라인 판매 데이터 통합하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131537.md">풀이</a> | 2026-01-18 |  | ✅ |
