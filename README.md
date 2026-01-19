@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-22%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-23%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-6-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-2-7C4DFF?style=flat-square)
@@ -15,7 +15,7 @@
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
 ![백트래킹](https://img.shields.io/badge/백트래킹-1-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-1-2196F3?style=flat-square)
-![기타](https://img.shields.io/badge/기타-0-9E9E9E?style=flat-square)
+![기타](https://img.shields.io/badge/기타-1-9E9E9E?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
 
