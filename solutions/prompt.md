@@ -103,6 +103,7 @@
 | 위상정렬    | Topological_Sort |
 | 분할정복    | Divide_Conquer   |
 | 누적합     | Prefix_Sum       |
+| 기타      | Etc              |
 
 ---
 
