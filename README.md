@@ -60,6 +60,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15652" target="_blank">🔢 N과 M (4)</a> | 백준 | <a href="./solutions/Backtracking/N과M(4)_15652.md">풀이</a> | 2026-01-20 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/7576" target="_blank">🍅 토마토</a> | 백준 | <a href="./solutions/BFS_DFS/토마토_7576.md">풀이</a> | 2026-01-19 |  |  |
 | 기타 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/11286" target="_blank">⚖️ 절댓값 힙</a> | 백준 | <a href="./solutions/Etc/절댓값힙_11286.md">풀이</a> | 2025-01-19 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/9019" target="_blank">📷 DSLR</a> | 백준 | <a href="./solutions/BFS_DFS/DSLR_9019.md">풀이</a> | 2026-01-19 |  |   |
