@@ -57,6 +57,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/1238" target="_blank">🎉 파티</a> | 백준 | <a href="./solutions/Shortest_Path/파티_1238.md">풀이</a> | 2025-01-19 |  |  |
 | 누적합 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/11660" target="_blank">📊 구간 합 구하기 5</a> | 백준 | <a href="./solutions/Prefix_Sum/구간합구하기5_11660.md">풀이</a> | 2026-01-19 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/2206" target="_blank">🧱 벽 부수고 이동하기</a> | 백준 | <a href="./solutions/BFS_DFS/벽부수고이동하기_2206.md">풀이</a> | 2026-01-18 | BFS최적화 |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1149" target="_blank">🎨 RGB거리</a> | 백준 | <a href="./solutions/DP/RGB거리_1149.md">풀이</a> | 2026-01-18 |  |  |
