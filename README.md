@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-27%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-28%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-8-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-2-7C4DFF?style=flat-square)
