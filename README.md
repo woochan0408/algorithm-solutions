@@ -17,7 +17,7 @@
 ![백트래킹](https://img.shields.io/badge/백트래킹-2-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-1-2196F3?style=flat-square)
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-1-3F51B5?style=flat-square)
-![비트마스크](https://img.shields.io/badge/비트마스크-0-607D8B?style=flat-square)
+![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
@@ -63,6 +63,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1863" target="_blank">🏙️ 스카이라인 쉬운거</a> | 백준 | <a href="./solutions/Stack_Queue/스카이라인쉬운거_1863.md">풀이</a> | 2026-01-21 |  |  |
 | 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/5430" target="_blank">🔄 AC</a> | 백준 | <a href="./solutions/Stack_Queue/AC_5430.md">풀이</a> | 2026-01-20 |  | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15652" target="_blank">🔢 N과 M (4)</a> | 백준 | <a href="./solutions/Backtracking/N과M(4)_15652.md">풀이</a> | 2026-01-20 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/7576" target="_blank">🍅 토마토</a> | 백준 | <a href="./solutions/BFS_DFS/토마토_7576.md">풀이</a> | 2026-01-19 |  |  |
