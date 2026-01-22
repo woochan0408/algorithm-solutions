@@ -63,6 +63,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1753" target="_blank">🛤️ 최단경로</a> | 백준 | <a href="./solutions/Shortest_Path/최단경로_1753.md">풀이</a> | 2026-01-22 |  |  |
 | 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1629" target="_blank">✖️ 곱셈</a> | 백준 | <a href="./solutions/Divide_Conquer/곱셈_1629.md">풀이</a> | 2026-01-22 |  |  |
 | 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1863" target="_blank">🏙️ 스카이라인 쉬운거</a> | 백준 | <a href="./solutions/Stack_Queue/스카이라인쉬운거_1863.md">풀이</a> | 2026-01-21 |  |  |
 | 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/5430" target="_blank">🔄 AC</a> | 백준 | <a href="./solutions/Stack_Queue/AC_5430.md">풀이</a> | 2026-01-20 |  | ✅ |
