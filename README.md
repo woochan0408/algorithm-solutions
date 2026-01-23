@@ -63,7 +63,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/2468" target="_blank">🌧️ 안전 영역</a> | 백준 | <a href="./solutions/BFS_DFS/안전영역_2468.
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/2468" target="_blank">🌧️ 안전 영역</a> | 백준 | <a href="./solutions/BFS_DFS/안전영역_2468.md">풀이</a> | 2026-01-23 |  |  |
 | 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1753" target="_blank">🛤️ 최단경로</a> | 백준 | <a href="./solutions/Shortest_Path/최단경로_1753.md">풀이</a> | 2026-01-22 |  |  |
 | 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1629" target="_blank">✖️ 곱셈</a> | 백준 | <a href="./solutions/Divide_Conquer/곱셈_1629.md">풀이</a> | 2026-01-22 |  |  |
 | 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1863" target="_blank">🏙️ 스카이라인 쉬운거</a> | 백준 | <a href="./solutions/Stack_Queue/스카이라인쉬운거_1863.md">풀이</a> | 2026-01-21 |  |  |
