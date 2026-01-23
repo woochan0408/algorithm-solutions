@@ -17,6 +17,7 @@
 ![백트래킹](https://img.shields.io/badge/백트래킹-2-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-2-2196F3?style=flat-square)
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-2-3F51B5?style=flat-square)
+![트리](https://img.shields.io/badge/트리-1-8BC34A?style=flat-square)
 ![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
 
@@ -63,6 +64,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1916" target="_blank">💸 최소비용 구하기</a> | 백준 | <a href="./solutions/Shortest_Path/최소비용구하기_1916.md">풀이</a> | 2026-01-23 |  |  |
 | Tree | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/2533" target="_blank">📱 사회망 서비스(SNS)</a> | 백준 | <a href="./solutions/Tree/사회망서비스SNS_2533.md">풀이</a> | 2026-01-23 |  | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/9465" target="_blank">🏷️ 스티커</a> | 백준 | <a href="./solutions/DP/스티커_9465.md">풀이</a> | 2026-01-23 | DP 아이디어 굳 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/2468" target="_blank">🌧️ 안전 영역</a> | 백준 | <a href="./solutions/BFS_DFS/안전영역_2468.md">풀이</a> | 2026-01-23 |  |  |
