@@ -4,18 +4,18 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-34%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-35%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-9-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-3-7C4DFF?style=flat-square)
-![DP](https://img.shields.io/badge/DP-8-FF5252?style=flat-square)
+![DP](https://img.shields.io/badge/DP-7-FF5252?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-2-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-1-FFCA28?style=flat-square)
 ![구현](https://img.shields.io/badge/구현-1-FF69B4?style=flat-square)
 <br>
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
 ![백트래킹](https://img.shields.io/badge/백트래킹-2-FF6F00?style=flat-square)
-![최단경로](https://img.shields.io/badge/최단경로-2-2196F3?style=flat-square)
+![최단경로](https://img.shields.io/badge/최단경로-3-2196F3?style=flat-square)
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-2-3F51B5?style=flat-square)
 ![트리](https://img.shields.io/badge/트리-1-8BC34A?style=flat-square)
 ![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
