@@ -63,7 +63,8 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/9465" target="_blank">🏷️ 스티커</a> | 백준 | <a href="./solutions/DP/스티커_9465.md">풀이</a> | 2026-01-23 |  |  |
+| Tree | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/2533" target="_blank">📱 사회망 서비스(SNS)</a> | 백준 | <a href="./solutions/Tree/사회망서비스SNS_2533.md">풀이</a> | 2026-01-23 |  | ✅ |
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/9465" target="_blank">🏷️ 스티커</a> | 백준 | <a href="./solutions/DP/스티커_9465.md">풀이</a> | 2026-01-23 | DP 아이디어 굳 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/2468" target="_blank">🌧️ 안전 영역</a> | 백준 | <a href="./solutions/BFS_DFS/안전영역_2468.md">풀이</a> | 2026-01-23 |  |  |
 | 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1753" target="_blank">🛤️ 최단경로</a> | 백준 | <a href="./solutions/Shortest_Path/최단경로_1753.md">풀이</a> | 2026-01-22 |  |  |
 | 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1629" target="_blank">✖️ 곱셈</a> | 백준 | <a href="./solutions/Divide_Conquer/곱셈_1629.md">풀이</a> | 2026-01-22 |  |  |
