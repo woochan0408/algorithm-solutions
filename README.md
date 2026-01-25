@@ -64,6 +64,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/15686" target="_blank">🍗 치킨 배달</a> | 백준 | <a href="./solutions/Implementation/치킨배달_15686.md">풀이</a> | 2026-01-25 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/13549" target="_blank">🏃 숨바꼭질 3</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질3_13549.md">풀이</a> | 2026-01-24 | 실수 多 | ✅ |
 | 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1916" target="_blank">💸 최소비용 구하기</a> | 백준 | <a href="./solutions/Shortest_Path/최소비용구하기_1916.md">풀이</a> | 2026-01-23 |  |  |
 | Tree | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/2533" target="_blank">📱 사회망 서비스(SNS)</a> | 백준 | <a href="./solutions/Tree/사회망서비스SNS_2533.md">풀이</a> | 2026-01-23 |  | ✅ |
