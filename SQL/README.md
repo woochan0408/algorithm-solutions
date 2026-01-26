@@ -4,7 +4,8 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
-| <img src="https://img.shields.io/badge/문자열-4CAF50"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299310" target="_blank">잡은 물고기 중 가장 큰 물고기의 길이 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_299310.md">풀이</a> | 2026-01-26 |  |  |
+| <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/윈도우%20함수-E91E63"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299310" target="_blank">연도별 대장균 크기의 편차 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_299310.md">풀이</a> | 2026-01-26 |  | ✅ |
+| <img src="https://img.shields.io/badge/문자열-4CAF50"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/298515" target="_blank">잡은 물고기 중 가장 큰 물고기의 길이 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_298515.md">풀이</a> | 2026-01-26 |  |  |
 | <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293261" target="_blank">물고기 종류 별 대어 찾기</a> | 프로그래머스 | <a href="./solves/프로그래머스_293261.md">풀이</a> | 2026-01-26 |  | ✅ |
 | <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59405" target="_blank">상위 n개 레코드</a> | 프로그래머스 | <a href="./solves/프로그래머스_59405.md">풀이</a> | 2026-01-26 |  |  |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/문자열-4CAF50"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118" target="_blank">서울에 위치한 식당 목록 출력하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131118.md">풀이</a> | 2026-01-22 |  |  |
