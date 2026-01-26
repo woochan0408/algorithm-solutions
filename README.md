@@ -65,6 +65,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/17070" target="_blank">🔧 파이프 옮기기 1</a> | 백준 | <a href="./solutions/DP/파이프옮기기1_17070.md">풀이</a> | 2026-01-26 | 실패 | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15654" target="_blank">🔢 N과 M (5)</a> | 백준 | <a href="./solutions/Backtracking/N과M(5)_15654.md">풀이</a> | 2026-01-26 |  |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1931" target="_blank">📅 회의실 배정</a> | 백준 | <a href="./solutions/Greedy/회의실배정_1931.md">풀이</a> | 2026-01-26 | 약점문제 | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19621" target="_blank">🏢 회의실 배정 2</a> | 백준 | <a href="./solutions/DP/회의실배정2_19621.md">풀이</a> | 2026-01-26 |  |  |
