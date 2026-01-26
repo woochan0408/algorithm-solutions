@@ -9,6 +9,7 @@
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-12-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-3-7C4DFF?style=flat-square)
 ![DP](https://img.shields.io/badge/DP-8-FF5252?style=flat-square)
+![그리디](https://img.shields.io/badge/그리디-1-FFA000?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-2-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-1-FFCA28?style=flat-square)
 ![구현](https://img.shields.io/badge/구현-2-FF69B4?style=flat-square)
@@ -64,6 +65,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1931" target="_blank">📅 회의실 배정</a> | 백준 | <a href="./solutions/Greedy/회의실배정_1931.md">풀이</a> | 2026-01-26 | 약점문제 | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19621" target="_blank">🏢 회의실 배정 2</a> | 백준 | <a href="./solutions/DP/회의실배정2_19621.md">풀이</a> | 2026-01-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/21736" target="_blank">👋 헌내기는 친구가 필요해</a> | 백준 | <a href="./solutions/BFS_DFS/헌내기는친구가필요해_21736.md">풀이</a> | 2026-01-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/16236" target="_blank">🦈 아기 상어</a> | 백준 | <a href="./solutions/BFS_DFS/아기상어_16236.md">풀이</a> | 2026-01-26 | 레벨 단위 BFS |  |
