@@ -64,6 +64,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19621" target="_blank">🏢 회의실 배정 2</a> | 백준 | <a href="./solutions/DP/회의실배정2_19621.md">풀이</a> | 2026-01-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/21736" target="_blank">👋 헌내기는 친구가 필요해</a> | 백준 | <a href="./solutions/BFS_DFS/헌내기는친구가필요해_21736.md">풀이</a> | 2026-01-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/16236" target="_blank">🦈 아기 상어</a> | 백준 | <a href="./solutions/BFS_DFS/아기상어_16236.md">풀이</a> | 2026-01-26 | 레벨 단위 BFS |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/15686" target="_blank">🍗 치킨 배달</a> | 백준 | <a href="./solutions/Implementation/치킨배달_15686.md">풀이</a> | 2026-01-25 |  |  |
