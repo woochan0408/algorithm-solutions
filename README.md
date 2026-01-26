@@ -65,6 +65,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15654" target="_blank">🔢 N과 M (5)</a> | 백준 | <a href="./solutions/Backtracking/N과M(5)_15654.md">풀이</a> | 2026-01-26 |  |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1931" target="_blank">📅 회의실 배정</a> | 백준 | <a href="./solutions/Greedy/회의실배정_1931.md">풀이</a> | 2026-01-26 | 약점문제 | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19621" target="_blank">🏢 회의실 배정 2</a> | 백준 | <a href="./solutions/DP/회의실배정2_19621.md">풀이</a> | 2026-01-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/21736" target="_blank">👋 헌내기는 친구가 필요해</a> | 백준 | <a href="./solutions/BFS_DFS/헌내기는친구가필요해_21736.md">풀이</a> | 2026-01-26 |  |  |
