@@ -65,6 +65,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| BFS/DFS | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189" target="_blank">🌐 가장 먼 노드</a> | Prog | <a href="./solutions/BFS_DFS/가장먼노드_49189.md">풀이</a> | 2026-01-27 | 레벨순회 특징 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1043" target="_blank">🤥 거짓말</a> | 백준 | <a href="./solutions/BFS_DFS/거짓말_1043.md">풀이</a> | 2026-01-27 | 첫 골4 원큐성공 |  |
 | 구현 | Lv.1| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576" target="_blank">🏃 완주하지 못한 선수</a> | Prog | <a href="./solutions/Implementation/완주하지못한선수_42576.md">풀이</a> | 2026-01-26 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/17070" target="_blank">🔧 파이프 옮기기 1</a> | 백준 | <a href="./solutions/DP/파이프옮기기1_17070.md">풀이</a> | 2026-01-26 | 실패 | ✅ |
