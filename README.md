@@ -20,6 +20,7 @@
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-2-3F51B5?style=flat-square)
 ![트리](https://img.shields.io/badge/트리-1-8BC34A?style=flat-square)
 ![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
+![투포인터](https://img.shields.io/badge/투포인터-0-009688?style=flat-square)
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
@@ -65,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2467" target="_blank">🧪 용액</a> | 백준 | <a href="./solutions/Two_Pointer/용액_2467.md">풀이</a> | 2026-01-28 |  |  |
 | BFS/DFS | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189" target="_blank">🌐 가장 먼 노드</a> | Prog | <a href="./solutions/BFS_DFS/가장먼노드_49189.md">풀이</a> | 2026-01-27 | 레벨순회 특징 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1043" target="_blank">🤥 거짓말</a> | 백준 | <a href="./solutions/BFS_DFS/거짓말_1043.md">풀이</a> | 2026-01-27 | 첫 골4 원큐성공 |  |
 | 구현 | Lv.1| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576" target="_blank">🏃 완주하지 못한 선수</a> | Prog | <a href="./solutions/Implementation/완주하지못한선수_42576.md">풀이</a> | 2026-01-26 |  |  |
