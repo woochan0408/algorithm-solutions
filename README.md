@@ -65,7 +65,7 @@
 <div align="center">
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1240" target="_blank">📏 노드사이의 거리</a> | 백준 | <a href="./solutions/BFS_DFS/노드사이의거리_1240.md">풀이</a> | 2026-01-29 | 트리도 역방향 조심 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/14867" target="_blank">🪣 물통</a> | 백준 | <a href="./solutions/BFS_DFS/물통_14867.md">풀이</a> | 2026-01-28 |  |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2467" target="_blank">🧪 용액</a> | 백준 | <a href="./solutions/Two_Pointer/용액_2467.md">풀이</a> | 2026-01-28 |  |  |
