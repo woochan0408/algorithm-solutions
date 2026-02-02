@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/14719" target="_blank">🌧️ 빗물</a> | 백준 | <a href="./solutions/Stack_Queue/빗물_14719.md">풀이</a> | 2026-02-02 |  | ✅ |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://boj.kr/10431" target="_blank">🧍 줄세우기</a> | 백준 | <a href="./solutions/Implementation/줄세우기_10431.md">풀이</a> | 2026-02-02 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/3190" target="_blank">🐍 뱀</a> | 백준 | <a href="./solutions/Implementation/뱀_3190.md">풀이</a> | 2026-02-02 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/17485" target="_blank">🚀 진우의 달 여행 (Large)</a> | 백준 | <a href="./solutions/DP/진우의달여행(Large)_17485.md">풀이</a> | 2026-01-30 |  |  |
