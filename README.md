@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼&nbsp;날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://boj.kr/1244" target="_blank">🔘 스위치 켜고 끄기</a> | 백준 | <a href="./solutions/Implementation/스위치켜고끄기_1244.md">풀이</a> | 2026-02-03 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2304" target="_blank">🏭 창고 다각형</a> | 백준 | <a href="./solutions/Implementation/창고다각형_2304.md">풀이</a> | 2026-02-03 |  |  |
 | Backtracking | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/14889" target="_blank">⚽ 스타트와 링크</a> | 백준 | <a href="./solutions/Backtracking/스타트와링크_14889.md">풀이</a> | 2026-02-02 |  | ✅ |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://boj.kr/20125" target="_blank">🍪 쿠키의 신체 측정</a> | 백준 | <a href="./solutions/Implementation/쿠키의신체측정_20125.md">풀이</a> | 2026-02-02 |  |  |
