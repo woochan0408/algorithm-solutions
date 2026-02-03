@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼&nbsp;날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/20920" target="_blank">📚 영단어 암기는 괴로워</a> | 백준 | <a href="./solutions/Sorting/영단어암기는괴로워_20920.md">풀이</a> | 2026-02-03 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/9017" target="_blank">🏃‍♂️ 크로스 컨트리</a> | 백준 | <a href="./solutions/Implementation/크로스컨트리_9017.md">풀이</a> | 2026-02-03 |  |  |
 | Binary_Search | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://boj.kr/19637" target="_blank">⚔️ IF문 좀 대신 써줘</a> | 백준 | <a href="./solutions/Binary_Search/IF문좀대신써줘_19637.md">풀이</a> | 2025-02-03 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://boj.kr/1244" target="_blank">🔘 스위치 켜고 끄기</a> | 백준 | <a href="./solutions/Implementation/스위치켜고끄기_1244.md">풀이</a> | 2026-02-03 |  |  |
