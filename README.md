@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼&nbsp;날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/16928" target="_blank">🎲 뱀과 사다리 게임</a> | 백준 | <a href="./solutions/BFS_DFS/뱀과사다리게임_16928.md">풀이</a> | 2026-02-04 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="https://boj.kr/1300" target="_blank">🔢 K번째 수</a> | 백준 | <a href="./solutions/Binary_Search/K번째수_1300.md">풀이</a> | 2026-02-04 |  |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/30804" target="_blank">🍡 과일 탕후루</a> | 백준 | <a href="./solutions/Two_Pointer/과일탕후루_30804.md">풀이</a> | 2026-02-03 |  | ✅ |
 | 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/20920" target="_blank">📚 영단어 암기는 괴로워</a> | 백준 | <a href="./solutions/Sorting/영단어암기는괴로워_20920.md">풀이</a> | 2026-02-03 |  |  |
