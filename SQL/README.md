@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/293257" target="_blank">물고기 종류 별 잡은 수 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_293257.md">풀이</a> | 2026-02-05 | 비집계 칼럼 조심 (1ㄷ1이더라도) |  |
 | <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/HAVING-8E44AD"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59041" target="_blank">동명 동물 수 찾기</a> | 프로그래머스 | <a href="./solves/프로그래머스_59041.md">풀이</a> | 2026-02-05 |  |  |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856" target="_blank">저자 별 카테고리 별 매출액 집계하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_144856.md">풀이</a> | 2025-02-05 |  |  |
 | <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273711" target="_blank">업그레이드 된 아이템 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_273711.md">풀이</a> | 2026-02-03 | 부모-자식 관계의 방향성 주의 | ✅ |
