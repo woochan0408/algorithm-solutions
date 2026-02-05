@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼&nbsp;날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2607" target="_blank">🔤 비슷한 단어</a> | 백준 | <a href="./solutions/Implementation/비슷한단어_2607.md">풀이</a> | 2026-02-05 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/34936" target="_blank">🔗 블록 생성</a> | 백준 | <a href="./solutions/Implementation/블록생성_34936.md">풀이</a> | 2026-02-05 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1654" target="_blank">✂️ 랜선 자르기</a> | 백준 | <a href="./solutions/Binary_Search/랜선자르기_1654.md">풀이</a> | 2026-02-04 | 오답노트 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/16928" target="_blank">🎲 뱀과 사다리 게임</a> | 백준 | <a href="./solutions/BFS_DFS/뱀과사다리게임_16928.md">풀이</a> | 2026-02-04 |  |  |
