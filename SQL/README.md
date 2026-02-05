@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856" target="_blank">저자 별 카테고리 별 매출액 집계하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_144856.md">풀이</a> | 2025-02-05 |  |  |
 | <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273711" target="_blank">업그레이드 된 아이템 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_273711.md">풀이</a> | 2026-02-03 | 부모-자식 관계의 방향성 주의 | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/날짜-009688"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131117" target="_blank">5월 식품들의 총매출 조회하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131117.md">풀이</a> | 2026-01-29 | 정리한 내용 참고 | ✅ |
 | <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/윈도우%20함수-E91E63"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299310" target="_blank">연도별 대장균 크기의 편차 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_299310.md">풀이</a> | 2026-01-26 |  | ✅ |
