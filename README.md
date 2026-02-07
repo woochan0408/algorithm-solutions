@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼&nbsp;날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1912" target="_blank">📊 연속합</a> | 백준 | <a href="./solutions/DP/연속합_1912.md">풀이</a> | 2026-02-07 | dp VS 투포인터 | ✅ |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/22233" target="_blank">📝 가희와 키워드</a> | 백준 | <a href="./solutions/Implementation/가희와키워드_22233.md">풀이</a> | 2026-02-07 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/3758" target="_blank">🏆 KCPC</a> | 백준 | <a href="./solutions/Implementation/KCPC_3758.md">풀이</a> | 2026-02-06 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2607" target="_blank">🔤 비슷한 단어</a> | 백준 | <a href="./solutions/Implementation/비슷한단어_2607.md">풀이</a> | 2026-02-05 |  |  |
