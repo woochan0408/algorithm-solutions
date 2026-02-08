@@ -66,6 +66,7 @@
 
 | 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼&nbsp;날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Greedy | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/17615" target="_blank">🔴 볼 모으기</a> | 백준 | <a href="./solutions/Greedy/볼모으기_17615.md">풀이</a> | 2026-02-08 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/22252" target="_blank">💼 정보 상인 호석</a> | 백준 | <a href="./solutions/Implementation/정보상인호석_22252.md">풀이</a> | 2026-02-08 |  |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/18310" target="_blank">📡 안테나</a> | 백준 | <a href="./solutions/Greedy/안테나_18310.md">풀이</a> | 2026-02-07 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1912" target="_blank">📊 연속합</a> | 백준 | <a href="./solutions/DP/연속합_1912.md">풀이</a> | 2026-02-07 | dp VS 투포인터 | ✅ |
