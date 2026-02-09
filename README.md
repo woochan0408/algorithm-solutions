@@ -36,7 +36,6 @@
 
 | 탐색 | 그래프 | 자료구조 | 최적화 | 기법 |
 |:---:|:---:|:---:|:---:|:---:|
-| Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839" target="_blank">🔍 소수 찾기</a> | Prog | <a href="./solutions/Brute_Force/소수찾기_42839.md">풀이</a> | 2026-02-10 |  |  |
 | [BFS/DFS](./solutions/BFS_DFS) | [그래프](./solutions/Graph) | [스택/큐](./solutions/Stack_Queue) | [DP](./solutions/DP) | [구현](./solutions/Implementation) |
 | [이분탐색](./solutions/Binary_Search) | [최단경로](./solutions/Shortest_Path) | [트리](./solutions/Tree) | [그리디](./solutions/Greedy) | [백트래킹](./solutions/Backtracking) |
 | [브루트포스](./solutions/Brute_Force) | [위상정렬](./solutions/Topological_Sort) | [세그먼트트리](./solutions/Segment_Tree) | [분할정복](./solutions/Divide_Conquer) | [비트마스킹](./solutions/Bitmask) |
@@ -68,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839" target="_blank">🔍 소수 찾기</a> | Prog | <a href="./solutions/Brute_Force/소수찾기_42839.md">풀이</a> | 2026-02-10 |  |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/3621" target="_blank">🧬 족보</a> | 백준 | <a href="./solutions/Greedy/족보_3621.md">풀이</a> | 2026-02-08 |  | ✅ |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/17615" target="_blank">🔴 볼 모으기</a> | 백준 | <a href="./solutions/Greedy/볼모으기_17615.md">풀이</a> | 2026-02-08 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/22252" target="_blank">💼 정보 상인 호석</a> | 백준 | <a href="./solutions/Implementation/정보상인호석_22252.md">풀이</a> | 2026-02-08 |  |  |
