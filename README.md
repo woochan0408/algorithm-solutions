@@ -14,6 +14,7 @@
 ![정렬](https://img.shields.io/badge/정렬-2-FFCA28?style=flat-square)
 ![구현](https://img.shields.io/badge/구현-16-FF69B4?style=flat-square)
 <br>
+![브루트포스](https://img.shields.io/badge/브루트포스-1-E91E63?style=flat-square)
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
 ![백트래킹](https://img.shields.io/badge/백트래킹-4-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-3-2196F3?style=flat-square)
@@ -35,6 +36,7 @@
 
 | 탐색 | 그래프 | 자료구조 | 최적화 | 기법 |
 |:---:|:---:|:---:|:---:|:---:|
+| Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839" target="_blank">🔍 소수 찾기</a> | Prog | <a href="./solutions/Brute_Force/소수찾기_42839.md">풀이</a> | 2026-02-10 |  |  |
 | [BFS/DFS](./solutions/BFS_DFS) | [그래프](./solutions/Graph) | [스택/큐](./solutions/Stack_Queue) | [DP](./solutions/DP) | [구현](./solutions/Implementation) |
 | [이분탐색](./solutions/Binary_Search) | [최단경로](./solutions/Shortest_Path) | [트리](./solutions/Tree) | [그리디](./solutions/Greedy) | [백트래킹](./solutions/Backtracking) |
 | [브루트포스](./solutions/Brute_Force) | [위상정렬](./solutions/Topological_Sort) | [세그먼트트리](./solutions/Segment_Tree) | [분할정복](./solutions/Divide_Conquer) | [비트마스킹](./solutions/Bitmask) |
