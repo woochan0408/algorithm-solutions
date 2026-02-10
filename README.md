@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/1904" target="_blank">🧩 01타일</a> | 백준 | <a href="./solutions/DP/01타일_1904.md">풀이</a> | 2026-02-10 |  |  |
 | Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839" target="_blank">🔍 소수 찾기</a> | Prog | <a href="./solutions/Brute_Force/소수찾기_42839.md">풀이</a> | 2026-02-10 |  |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/3621" target="_blank">🧬 족보</a> | 백준 | <a href="./solutions/Greedy/족보_3621.md">풀이</a> | 2026-02-08 |  | ✅ |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/17615" target="_blank">🔴 볼 모으기</a> | 백준 | <a href="./solutions/Greedy/볼모으기_17615.md">풀이</a> | 2026-02-08 |  |  |
