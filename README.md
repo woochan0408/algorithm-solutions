@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971" target="_blank">⚡ 전력망을 둘로 나누기</a> | Prog | <a href="./solutions/BFS_DFS/전력망을둘로나누기_86971.md">풀이</a> | 2026-02-11 |  |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253.md">풀이</a> | 2026-02-10 | 투포인트 개념 참고 | ✅ |
 | Binary_Search | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2512" target="_blank">💰 예산</a> | 백준 | <a href="./solutions/Binary_Search/예산_2512.md">풀이</a> | 2026-02-10 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/1904" target="_blank">🧩 01타일</a> | 백준 | <a href="./solutions/DP/01타일_1904.md">풀이</a> | 2026-02-10 |  |  |
