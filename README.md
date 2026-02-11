@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2470" target="_blank">🧪 두 용액</a> | 백준 | <a href="./solutions/Two_Pointer/두용액_2470.md">풀이</a> | 2026-02-11 | 오답노트 완료 |  |
 | BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971" target="_blank">⚡ 전력망을 둘로 나누기</a> | Prog | <a href="./solutions/BFS_DFS/전력망을둘로나누기_86971.md">풀이</a> | 2026-02-11 |  |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253.md">풀이</a> | 2026-02-10 | 투포인트 개념 참고 | ✅ |
 | Binary_Search | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2512" target="_blank">💰 예산</a> | 백준 | <a href="./solutions/Binary_Search/예산_2512.md">풀이</a> | 2026-02-10 |  |  |
@@ -100,7 +101,7 @@
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/10972" target="_blank">🔢 다음 순열</a> | 백준 | <a href="./solutions/Implementation/다음순열_10972.md">풀이</a> | 2026-01-29 | 난이도 있음 | ✅ |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1240" target="_blank">📏 노드사이의 거리</a> | 백준 | <a href="./solutions/BFS_DFS/노드사이의거리_1240.md">풀이</a> | 2026-01-29 | 트리도 역방향 조심 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/14867" target="_blank">🪣 물통</a> | 백준 | <a href="./solutions/BFS_DFS/물통_14867.md">풀이</a> | 2026-01-28 |  |  |
-| Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2467" target="_blank">🧪 용액</a> | 백준 | <a href="./solutions/Two_Pointer/용액_2467.md">풀이</a> | 2026-01-28 |  |  |
+| Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2467" target="_blank">🧪 용액</a> | 백준 | <a href="./solutions/Two_Po_2467inter/용액.md">풀이</a> | 2026-01-28 |  |  |
 | BFS/DFS | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189" target="_blank">🌐 가장 먼 노드</a> | Prog | <a href="./solutions/BFS_DFS/가장먼노드_49189.md">풀이</a> | 2026-01-27 | 레벨순회 특징 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1043" target="_blank">🤥 거짓말</a> | 백준 | <a href="./solutions/BFS_DFS/거짓말_1043.md">풀이</a> | 2026-01-27 | 첫 골4 원큐성공 |  |
 | 구현 | Lv.1| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576" target="_blank">🏃 완주하지 못한 선수</a> | Prog | <a href="./solutions/Implementation/완주하지못한선수_42576.md">풀이</a> | 2026-01-26 |  |  |
