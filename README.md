@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/33943" target="_blank">🪙 간단한 동전 문제 (Hard)</a> | 백준 | <a href="./solutions/BFS_DFS/간단한동전문제Hard_33943.md">풀이</a> | 2026-02-11 | 배운개념 읽어보기 |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2470" target="_blank">🧪 두 용액</a> | 백준 | <a href="./solutions/Two_Pointer/두용액_2470.md">풀이</a> | 2026-02-11 | 오답노트 완료 |  |
 | BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971" target="_blank">⚡ 전력망을 둘로 나누기</a> | Prog | <a href="./solutions/BFS_DFS/전력망을둘로나누기_86971.md">풀이</a> | 2026-02-11 |  |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253.md">풀이</a> | 2026-02-10 | 투포인트 개념 참고 | ✅ |
