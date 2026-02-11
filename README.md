@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339" target="_blank">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_157339.md">풀이</a> | 2026-02-11 | 중요 문항 | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1309" target="_blank">🦁 동물원</a> | 백준 | <a href="./solutions/DP/동물원_1309.md">풀이</a> | 2026-02-11 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/33943" target="_blank">🪙 간단한 동전 문제 (Hard)</a> | 백준 | <a href="./solutions/BFS_DFS/간단한동전문제Hard_33943.md">풀이</a> | 2026-02-11 | 배운개념 읽어보기 |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2470" target="_blank">🧪 두 용액</a> | 백준 | <a href="./solutions/Two_Pointer/두용액_2470.md">풀이</a> | 2026-02-11 | 오답노트 완료 |  |
