@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Binary_Search | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1477" target="_blank">🛣️ 휴게소 세우기</a> | 백준 | <a href="./solutions/Binary_Search/휴게소세우기_1477.md">풀이</a> | 2026-02-12 | 문제변형 아이디어 | ✅ |
 | 비트마스킹 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1052" target="_blank">🧴 물병</a> | 백준 | <a href="./solutions/Bitmask/물병_1052.md">풀이</a> | 2026-02-12 |  | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1309" target="_blank">🦁 동물원</a> | 백준 | <a href="./solutions/DP/동물원_1309.md">풀이</a> | 2026-02-11 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/33943" target="_blank">🪙 간단한 동전 문제 (Hard)</a> | 백준 | <a href="./solutions/BFS_DFS/간단한동전문제Hard_33943.md">풀이</a> | 2026-02-11 | 배운개념 읽어보기 |  |
