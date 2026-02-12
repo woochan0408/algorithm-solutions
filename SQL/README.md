@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/164668" target="_blank">조건에 맞는 사용자와 총 거래금액 조회하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_164668.md">풀이</a> | 2026-02-12 |  |  |
 | <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339" target="_blank">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_157339.md">풀이</a> | 2026-02-11 | 중요 문항 | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59045" target="_blank">보호소에서 중성화한 동물</a> | 프로그래머스 | <a href="./solves/프로그래머스_59045.md">풀이</a> | 2026-02-11 |  |  |
 | <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131116" target="_blank">식품분류별 가장 비싼 식품의 정보 조회하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131116.md">풀이</a> | 2026-02-07 |  |  |
