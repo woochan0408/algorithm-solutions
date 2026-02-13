@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273712" target="_blank">업그레이드 할 수 없는 아이템 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_273712.md">풀이</a> | 2026-02-13 | NULL값으로 인한 UNKNOWN | ✅ |
 | <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/276035" target="_blank">FrontEnd 개발자 찾기</a> | 프로그래머스 | <a href="./solves/프로그래머스_276035.md">풀이</a> | 2026-02-13 | 여러 풀이 확인 | ✅ |
 | <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/HAVING-8E44AD"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151139" target="_blank">대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_151139.md">풀이</a> | 2026-02-13 | 다중 컬럼 GROUP BY | ✅ |
 | <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/CTE-3F51B5"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131123" target="_blank">즐겨찾기가 가장 많은 식당 정보 출력하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131123.md">풀이</a> | 2026-02-13 | 다음에 서브쿼리로 풀기 | ✅ |
