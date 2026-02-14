@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1697" target="_blank">🏃 숨바꼭질</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질_1697.md">풀이</a> | 2026-02-14 | 오답노트 완료 |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1541" target="_blank">🧮 잃어버린 괄호</a> | 백준 | <a href="./solutions/Greedy/잃어버린괄호_1541.md">풀이</a> | 2026-02-14 |  |  |
 | 그리디 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862" target="_blank">👕 체육복</a> | Prog | <a href="./solutions/Greedy/체육복_42862.md">풀이</a> | 2026-02-13 | 실수 多 | ✅ |
 | 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/5052" target="_blank">📞 전화번호 목록</a> | 백준 | <a href="./solutions/Sorting/전화번호목록_5052.md">풀이</a> | 2026-02-13 |  |  |
