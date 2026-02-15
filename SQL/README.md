@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273711" target="_blank">업그레이드 된 아이템 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_273711.md">풀이</a> | 2026-02-15 |  |  |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131124" target="_blank">그룹별 조건에 맞는 식당 목록 출력하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131124.md">풀이</a> | 2026-02-14 |  | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534" target="_blank">상품을 구매한 회원 비율 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131534.md">풀이</a> | 2026-02-13 | 깡으로 어려운 문제 시간남으면 다시풀기 | ✅ |
 | <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273712" target="_blank">업그레이드 할 수 없는 아이템 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_273712.md">풀이</a> | 2026-02-13 | NULL값으로 인한 UNKNOWN | ✅ |
