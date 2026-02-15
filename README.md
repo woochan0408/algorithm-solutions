@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844" target="_blank">🎮 게임 맵 최단거리</a> | Prog | <a href="./solutions/BFS_DFS/게임맵최단거리_1844.md">풀이</a> | 2026-02-15 |  |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/16953" target="_blank">🔄 A → B</a> | 백준 | <a href="./solutions/Greedy/A→B_16953.md">풀이</a> | 2026-02-15 |  |  |
 | 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845" target="_blank">🐾 폰켓몬</a> | Prog | <a href="./solutions/Implementation/폰켓몬_1845.md">풀이</a> | 2026-02-14 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1697" target="_blank">🏃 숨바꼭질</a> | 백준 | <a href="./solutions/BFS_DFS/숨바꼭질_1697.md">풀이</a> | 2026-02-14 | 오답노트 완료 |  |
