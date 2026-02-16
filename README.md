@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 투포인터 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/17609" target="_blank">🪞 회문</a> | 백준 | <a href="./solutions/Two_Pointer/회문_17609.md">풀이</a> | 2026-02-16 |  |  |
 | Greedy | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860" target="_blank">🕹️ 조이스틱</a> | Prog | <a href="./solutions/Greedy/조이스틱_42860.md">풀이</a> | 2026-02-15 | 시간되면 다시.. | ✅ |
 | BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844" target="_blank">🎮 게임 맵 최단거리</a> | Prog | <a href="./solutions/BFS_DFS/게임맵최단거리_1844.md">풀이</a> | 2026-02-15 |  |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/16953" target="_blank">🔄 A → B</a> | 백준 | <a href="./solutions/Greedy/A→B_16953.md">풀이</a> | 2026-02-15 |  |  |
