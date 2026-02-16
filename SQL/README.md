@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299307" target="_blank">대장균의 크기에 따라 분류하기 1</a> | 프로그래머스 | <a href="./solves/프로그래머스_299307.md">풀이</a> | 2026-02-16 | CASE 문법 복습 | ✅ |
 | <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/문자열-4CAF50"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/284531" target="_blank">노선별 평균 역 사이 거리 조회하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_284531.md">풀이</a> | 2026-02-16 | 실수 포인트 읽어보기 |  |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131532" target="_blank">년, 월, 성별 별 상품 구매 회원 수 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131532.md">풀이</a> | 2025-02-15 |  | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/273711" target="_blank">업그레이드 된 아이템 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_273711.md">풀이</a> | 2026-02-15 |  |  |
