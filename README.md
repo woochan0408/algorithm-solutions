@@ -67,7 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
-| Backtracking | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1189" target="_blank">🏠 컴백홈</a> | 백준 | <a href="./solutions/Backtracking/컴백홈_1189.md">풀이</a> | 2026-02-17 | ✅ |  |
+| Backtracking | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1189" target="_blank">🏠 컴백홈</a> | 백준 | <a href="./solutions/Backtracking/컴백홈_1189.md">풀이</a> | 2026-02-17 |  | ✅ |
 | 투포인터 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253_2.md">풀이</a> | 2026-02-17 | 오답노트 완료 |  |
 | BFS/DFS | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43162" target="_blank">🔗 네트워크</a> | Prog | <a href="./solutions/BFS_DFS/네트워크_43162.md">풀이</a> | 2026-02-17 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/16924" target="_blank">✝️ 십자가 찾기</a> | 백준 | <a href="./solutions/Implementation/십자가찾기_16924.md">풀이</a> | 2026-02-17 | 소마기출 |  |
