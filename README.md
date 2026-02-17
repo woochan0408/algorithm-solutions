@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 투포인터 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253_2.md">풀이</a> | 2026-02-17 | 오답노트 완료 |  |
 | BFS/DFS | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43162" target="_blank">🔗 네트워크</a> | Prog | <a href="./solutions/BFS_DFS/네트워크_43162.md">풀이</a> | 2026-02-17 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/16924" target="_blank">✝️ 십자가 찾기</a> | 백준 | <a href="./solutions/Implementation/십자가찾기_16924.md">풀이</a> | 2026-02-17 | 소마기출 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1327" target="_blank">🎲 소트 게임</a> | 백준 | <a href="./solutions/BFS_DFS/소트게임_1327.md">풀이</a> | 2026-02-16 | 소마기출 | ✅ |
@@ -87,7 +88,7 @@
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/33943" target="_blank">🪙 간단한 동전 문제 (Hard)</a> | 백준 | <a href="./solutions/BFS_DFS/간단한동전문제Hard_33943.md">풀이</a> | 2026-02-11 | 배운개념 읽어보기 |  |
 | Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/2470" target="_blank">🧪 두 용액</a> | 백준 | <a href="./solutions/Two_Pointer/두용액_2470.md">풀이</a> | 2026-02-11 | 오답노트 완료 |  |
 | BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971" target="_blank">⚡ 전력망을 둘로 나누기</a> | Prog | <a href="./solutions/BFS_DFS/전력망을둘로나누기_86971.md">풀이</a> | 2026-02-11 |  |  |
-| Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253.md">풀이</a> | 2026-02-10 | 투포인트 개념 참고 | ✅ |
+| Two_Pointer | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253.md">풀이</a> | 2026-02-10 | 투포인트 개념 참고 |  |
 | Binary_Search | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2512" target="_blank">💰 예산</a> | 백준 | <a href="./solutions/Binary_Search/예산_2512.md">풀이</a> | 2026-02-10 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/1904" target="_blank">🧩 01타일</a> | 백준 | <a href="./solutions/DP/01타일_1904.md">풀이</a> | 2026-02-10 |  |  |
 | Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839" target="_blank">🔍 소수 찾기</a> | Prog | <a href="./solutions/Brute_Force/소수찾기_42839.md">풀이</a> | 2026-02-10 |  |  |
