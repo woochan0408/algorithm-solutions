@@ -67,6 +67,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1043" target="_blank">🤥 거짓말</a> | 백준 | <a href="./solutions/BFS_DFS/거짓말_1043_2.md">풀이</a> | 2026-02-18 |  |  |
 | DP | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/389480" target="_blank">🕵️ 완전범죄</a> | Prog | <a href="./solutions/DP/완전범죄_389480.md">풀이</a> | 2026-02-18 | 메모이제이션 | ✅ |
 | Backtracking | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1189" target="_blank">🏠 컴백홈</a> | 백준 | <a href="./solutions/Backtracking/컴백홈_1189.md">풀이</a> | 2026-02-17 |  | ✅ |
 | 투포인터 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1253" target="_blank">👍 좋다</a> | 백준 | <a href="./solutions/Two_Pointer/좋다_1253_2.md">풀이</a> | 2026-02-17 | 오답노트 완료 |  |
