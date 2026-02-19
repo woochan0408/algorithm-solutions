@@ -18,6 +18,7 @@
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
 ![백트래킹](https://img.shields.io/badge/백트래킹-6-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-3-2196F3?style=flat-square)
+![유니온파인드](https://img.shields.io/badge/유니온파인드-1-5C6BC0?style=flat-square)
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-3-3F51B5?style=flat-square)
 ![트리](https://img.shields.io/badge/트리-1-8BC34A?style=flat-square)
 ![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
@@ -67,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Union_Find | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/4195" target="_blank">🤝 친구 네트워크</a> | 백준 | <a href="./solutions/Union_Find/친구네트워크_4195.md">풀이</a> | 2026-02-19 |  | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15649" target="_blank">🔢 N과 M (1)</a> | 백준 | <a href="./solutions/Backtracking/N과M(1)_15649_2.md">풀이</a> | 2026-02-19 |  |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1461" target="_blank">📚 도서관</a> | 백준 | <a href="./solutions/Greedy/도서관_1461.md">풀이</a> | 2026-02-18 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1043" target="_blank">🤥 거짓말</a> | 백준 | <a href="./solutions/BFS_DFS/거짓말_1043_2.md">풀이</a> | 2026-02-18 |  |  |
