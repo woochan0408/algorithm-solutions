@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Implementation | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/12933" target="_blank">🦆 오리</a> | 백준 | <a href="./solutions/Implementation/오리_12933.md">풀이</a> | 2026-02-19 |  |  |
 | Union_Find | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/4195" target="_blank">🤝 친구 네트워크</a> | 백준 | <a href="./solutions/Union_Find/친구네트워크_4195.md">풀이</a> | 2026-02-19 |  | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15649" target="_blank">🔢 N과 M (1)</a> | 백준 | <a href="./solutions/Backtracking/N과M(1)_15649_2.md">풀이</a> | 2026-02-19 |  |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1461" target="_blank">📚 도서관</a> | 백준 | <a href="./solutions/Greedy/도서관_1461.md">풀이</a> | 2026-02-18 |  |  |
