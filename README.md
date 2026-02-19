@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 브루트포스 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840" target="_blank">📝 모의고사</a> | Prog | <a href="./solutions/Brute_Force/모의고사_42840.md">풀이</a> | 2026-02-19 |  |  |
 | 완전탐색 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">📐 최소직사각형</a> | Prog | <a href="./solutions/Brute_Force/최소직사각형_86491.md">풀이</a> | 2026-02-19 |  |  |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/12933" target="_blank">🦆 오리</a> | 백준 | <a href="./solutions/Implementation/오리_12933.md">풀이</a> | 2026-02-19 |  |  |
 | Union_Find | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/4195" target="_blank">🤝 친구 네트워크</a> | 백준 | <a href="./solutions/Union_Find/친구네트워크_4195.md">풀이</a> | 2026-02-19 |  | ✅ |
