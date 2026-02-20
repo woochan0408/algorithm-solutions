@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/5582" target="_blank">🔤 공통 부분 문자열</a> | 백준 | <a href="./solutions/DP/공통부분문자열_5582.md">풀이</a> | 2026-02-20 | 공통부분 찾기 | ✅ |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/18111" target="_blank">⛏️ 마인크래프트</a> | 백준 | <a href="./solutions/Implementation/마인크래프트_18111.md">풀이</a> | 2026-02-20 |  |  |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15654" target="_blank">🔢 N과 M (5)</a> | 백준 | <a href="./solutions/Backtracking/N과M(5)_15654_2.md">풀이</a> | 2025-02-19 |  |  |
 | 브루트포스 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840" target="_blank">📝 모의고사</a> | Prog | <a href="./solutions/Brute_Force/모의고사_42840.md">풀이</a> | 2026-02-19 |  |  |
