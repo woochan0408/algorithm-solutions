@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1446" target="_blank">🛣️ 지름길</a> | 백준 | <a href="./solutions/DP/지름길_1446.md">풀이</a> | 2026-02-22 |  |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/13305" target="_blank">⛽ 주유소</a> | 백준 | <a href="./solutions/Greedy/주유소_13305.md">풀이</a> | 2026-02-22 |  |  |
 | 스택/큐 | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/2812" target="_blank">📏 크게 만들기</a> | 백준 | <a href="./solutions/Stack_Queue/크게만들기_2812.md">풀이</a> | 2026-02-21 |  | ✅ |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/15903" target="_blank">🃏 카드 합체 놀이</a> | 백준 | <a href="./solutions/Greedy/카드합체놀이_15903.md">풀이</a> | 2026-02-21 |  |  |
