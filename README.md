@@ -68,6 +68,8 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Greedy | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/2785" target="_blank">🔗 체인</a> | 백준 | <a href="./solutions/Greedy/체인_2785.md">풀이</a> | 2026-02-23 |  |  |
+| BFS/DFS | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">🔄 단어 변환</a> | Prog | <a href="./solutions/BFS_DFS/단어변환_43163.md">풀이</a> | 2026-02-23 | level 시작 기준 | ✅ |
 | Stack_Queue | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/13335" target="_blank">🚚 트럭</a> | 백준 | <a href="./solutions/Stack_Queue/트럭_13335.md">풀이</a> | 2026-02-23 | 시간 너무 오래걸림 | ✅ |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1926" target="_blank">🎨 그림</a> | 백준 | <a href="./solutions/BFS_DFS/그림_1926.md">풀이</a> | 2026-02-23 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/15486" target="_blank">💼 퇴사 2</a> | 백준 | <a href="./solutions/DP/퇴사2_15486.md">풀이</a> | 2026-02-23 | DP vs 다익 | ✅ |
