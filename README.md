@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/15486" target="_blank">💼 퇴사 2</a> | 백준 | <a href="./solutions/DP/퇴사2_15486.md">풀이</a> | 2026-02-23 | DP vs 다익 | ✅ |
 | Implementation | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/388353" target="_blank">🏗️ 지게차와 크레인</a> | Prog | <a href="./solutions/Implementation/지게차와크레인_388353.md">풀이</a> | 2026-02-22 | 패딩의 중요성 | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/2293" target="_blank">🪙 동전 1</a> | 백준 | <a href="./solutions/DP/동전1_2293.md">풀이</a> | 2026-02-22 |  | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/1446" target="_blank">🛣️ 지름길</a> | 백준 | <a href="./solutions/DP/지름길_1446.md">풀이</a> | 2026-02-22 |  |  |
