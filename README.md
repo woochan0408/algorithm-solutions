@@ -4,19 +4,19 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-130%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-132%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-26-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-3-7C4DFF?style=flat-square)
 ![DP](https://img.shields.io/badge/DP-18-FF5252?style=flat-square)
 ![그리디](https://img.shields.io/badge/그리디-14-FFA000?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-7-00BCD4?style=flat-square)
-![정렬](https://img.shields.io/badge/정렬-3-FFCA28?style=flat-square)
+![정렬](https://img.shields.io/badge/정렬-4-FFCA28?style=flat-square)
 ![구현](https://img.shields.io/badge/구현-23-FF69B4?style=flat-square)
 <br>
 ![브루트포스](https://img.shields.io/badge/브루트포스-4-E91E63?style=flat-square)
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
-![백트래킹](https://img.shields.io/badge/백트래킹-10-FF6F00?style=flat-square)
+![백트래킹](https://img.shields.io/badge/백트래킹-11-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-3-2196F3?style=flat-square)
 ![유니온파인드](https://img.shields.io/badge/유니온파인드-1-5C6BC0?style=flat-square)
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-6-3F51B5?style=flat-square)
