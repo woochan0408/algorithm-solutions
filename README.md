@@ -68,6 +68,8 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 정렬 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746" target="_blank">🔢 가장 큰 수</a> | Prog | <a href="./solutions/Sorting/가장큰수_42746.md">풀이</a> | 2026-02-24 |  | ✅ |
+| 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/14888" target="_blank">🧮 연산자 끼워넣기</a> | 백준 | <a href="./solutions/Backtracking/연산자끼워넣기_14888.md">풀이</a> | 2026-02-24 |  |  |
 | Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946" target="_blank">🏰 피로도</a> | Prog | <a href="./solutions/Brute_Force/피로도_87946.md">풀이</a> | 2026-02-24 | 꼭 다시풀기 | ✅ |
 | Stack_Queue | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/5430" target="_blank">🔄 AC</a> | 백준 | <a href="./solutions/Stack_Queue/AC_5430_2.md">풀이</a> | 2026-02-23 | 오답노트 완료! |  |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/11501" target="_blank">📈 주식</a> | 백준 | <a href="./solutions/Greedy/주식_11501.md">풀이</a> | 2026-02-23 |  |  |
