@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_33677_2.md">풀이</a> | 2025-02-25 |  | ✅ |
 | 분할정복 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946" target="_blank">🗼 하노이의 탑</a> | Prog | <a href="./solutions/Divide_Conquer/하노이의탑_12946.md">풀이</a> | 2026-02-25 |  | ✅ |
 | Greedy | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476" target="_blank">🍊 귤 고르기</a> | Prog | <a href="./solutions/Greedy/귤고르기_138476.md">풀이</a> | 2026-02-25 |  |  |
 | DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105" target="_blank">📐 정수 삼각형</a> | Prog | <a href="./solutions/DP/정수삼각형_43105.md">풀이</a> | 2026-02-25 |  |  |
@@ -205,7 +206,7 @@
 | 정렬 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/18870" target="_blank">📊 좌표 압축</a> | 백준 | <a href="./solutions/Sorting/좌표압축_18870.md">풀이</a> | 2026-01-15 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2805" target="_blank">🌲 나무 자르기</a> | 백준 | <a href="./solutions/Binary_Search/나무자르기_2805.md">풀이</a> | 2026-01-15 |  |  |
 | 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1074" target="_blank">⚡ Z</a> | 백준 | <a href="./solutions/Divide_Conquer/Z_1074.md">풀이</a> | 2026-01-15 |  |  |
-| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_33677.md">풀이</a> | 2026-01-14 |  | ✅ |
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_33677.md">풀이</a> | 2026-01-14 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2579" target="_blank">🪜 계단 오르기</a> | 백준 | <a href="./solutions/DP/계단오르기_2579.md">풀이</a> | 2026-01-14 |  |  |
 | 이분탐색 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/1654" target="_blank">🔌 랜선 자르기</a> | 백준 | <a href="./solutions/Binary_Search/랜선자르기_1654.md">풀이</a> | 2026-01-14 |  |   |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/2606" target="_blank">🦠 바이러스</a> | 백준 | <a href="./solutions/BFS_DFS/바이러스_2606.md">풀이</a> | 2026-01-14 |  |  |
