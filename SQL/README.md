@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131123" target="_blank">즐겨찾기가 가장 많은 식당 정보 출력하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131123_2.md">풀이</a> | 2025-02-25 |  |  |
 | <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/날짜-009688"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151138" target="_blank">자동차 대여 기록에서 장기/단기 대여 구분하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_151138.md">풀이</a> | 2026-02-22 |  | ✅ |
 | <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413" target="_blank">입양 시각 구하기(2)</a> | 프로그래머스 | <a href="./solves/프로그래머스_59413.md">풀이</a> | 2026-02-20 | 중요문제 | ✅ |
 | <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/299307" target="_blank">대장균의 크기에 따라 분류하기 1</a> | 프로그래머스 | <a href="./solves/프로그래머스_299307.md">풀이</a> | 2026-02-16 | CASE 문법 복습 | ✅ |

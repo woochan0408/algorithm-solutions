@@ -37,6 +37,10 @@
 
 | 탐색 | 그래프 | 자료구조 | 최적화 | 기법 |
 |:---:|:---:|:---:|:---:|:---:|
+| DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105" target="_blank">📐 정수 삼각형</a> | Prog | <a href="./solutions/DP/정수삼각형_43105.md">풀이</a> | 2026-02-25 |  |  |
+| 스택/큐 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584" target="_blank">📈 주식가격</a> | Prog | <a href="./solutions/Stack_Queue/주식가격_42584.md">풀이</a> | 2026-02-25 |  |  |
+| 구현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888" target="_blank">💬 오픈채팅방</a> | Prog | <a href="./solutions/Implementation/오픈채팅방_42888.md">풀이</a> | 2026-02-25 |  |  |
+| 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334" target="_blank">📩 신고 결과 받기</a> | Prog | <a href="./solutions/Implementation/신고결과받기_92334.md">풀이</a> | 2026-02-25 |  |  |
 | [BFS/DFS](./solutions/BFS_DFS) | [그래프](./solutions/Graph) | [스택/큐](./solutions/Stack_Queue) | [DP](./solutions/DP) | [구현](./solutions/Implementation) |
 | [이분탐색](./solutions/Binary_Search) | [최단경로](./solutions/Shortest_Path) | [트리](./solutions/Tree) | [그리디](./solutions/Greedy) | [백트래킹](./solutions/Backtracking) |
 | [브루트포스](./solutions/Brute_Force) | [위상정렬](./solutions/Topological_Sort) | [세그먼트트리](./solutions/Segment_Tree) | [분할정복](./solutions/Divide_Conquer) | [비트마스킹](./solutions/Bitmask) |
