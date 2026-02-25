@@ -4,9 +4,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-138%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-139%20problems-0052CC?style=flat-square)
 <br>
-![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-26-00C853?style=flat-square)
+![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-27-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
 ![DP](https://img.shields.io/badge/DP-19-FF5252?style=flat-square)
 ![그리디](https://img.shields.io/badge/그리디-15-FFA000?style=flat-square)
