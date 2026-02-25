@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 분할정복 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946" target="_blank">🗼 하노이의 탑</a> | Prog | <a href="./solutions/Divide_Conquer/하노이의탑_12946.md">풀이</a> | 2026-02-25 |  | ✅ |
 | Greedy | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476" target="_blank">🍊 귤 고르기</a> | Prog | <a href="./solutions/Greedy/귤고르기_138476.md">풀이</a> | 2026-02-25 |  |  |
 | DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105" target="_blank">📐 정수 삼각형</a> | Prog | <a href="./solutions/DP/정수삼각형_43105.md">풀이</a> | 2026-02-25 |  |  |
 | 스택/큐 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584" target="_blank">📈 주식가격</a> | Prog | <a href="./solutions/Stack_Queue/주식가격_42584.md">풀이</a> | 2026-02-25 |  |  |
