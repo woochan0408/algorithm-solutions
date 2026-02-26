@@ -68,6 +68,9 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Greedy | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884" target="_blank">📷 단속카메라</a> | Prog | <a href="./solutions/Greedy/단속카메라_42884.md">풀이</a> | 2026-02-26 |  | ✅ |
+| DP | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913" target="_blank">🏡 땅따먹기</a> | Prog | <a href="./solutions/DP/땅따먹기_12913.md">풀이</a> | 2026-02-26 |  |  |
+| 구현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_blank">🔤 영어 끝말잇기</a> | Prog | <a href="./solutions/Implementation/영어끝말잇기_12981.md">풀이</a> | 2026-02-26 |  |  |
 | 브루트포스 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842" target="_blank">🟫 카펫</a> | Prog | <a href="./solutions/Brute_Force/카펫_42842.md">풀이</a> | 2026-02-26 |  |  |
 | 구현 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627" target="_blank">💿 디스크 컨트롤러</a> | Prog | <a href="./solutions/Implementation/디스크컨트롤러_42627.md">풀이</a> | 2026-02-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/2458" target="_blank">📏 키 순서</a> | 백준 | <a href="./solutions/BFS_DFS/키순서_2458.md">풀이</a> | 2026-02-25 |  | ✅ |
