@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 브루트포스 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842" target="_blank">🟫 카펫</a> | Prog | <a href="./solutions/Brute_Force/카펫_42842.md">풀이</a> | 2026-02-26 |  |  |
 | 구현 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627" target="_blank">💿 디스크 컨트롤러</a> | Prog | <a href="./solutions/Implementation/디스크컨트롤러_42627.md">풀이</a> | 2026-02-26 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/2458" target="_blank">📏 키 순서</a> | 백준 | <a href="./solutions/BFS_DFS/키순서_2458.md">풀이</a> | 2026-02-25 |  | ✅ |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_33677_2.md">풀이</a> | 2025-02-25 |  | ✅ |
