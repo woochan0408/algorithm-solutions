@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72411" target="_blank">🍽️ 메뉴 리뉴얼</a> | Prog | <a href="./solutions/Brute_Force/메뉴리뉴얼_72411.md">풀이</a> | 2026-02-26 |  | ✅ |
 | Greedy | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181188" target="_blank">🎯 요격 시스템</a> | Prog | <a href="./solutions/Greedy/요격시스템_181188.md">풀이</a> | 2026-02-26 |  |  |
 | 구현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265" target="_blank">🍰 롤케이크 자르기</a> | Prog | <a href="./solutions/Implementation/롤케이크자르기_132265.md">풀이</a> | 2026-02-26 |  |  |
 | Greedy | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884" target="_blank">📷 단속카메라</a> | Prog | <a href="./solutions/Greedy/단속카메라_42884.md">풀이</a> | 2026-02-26 |  | ✅ |
