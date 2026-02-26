@@ -68,6 +68,8 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Greedy | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181188" target="_blank">🎯 요격 시스템</a> | Prog | <a href="./solutions/Greedy/요격시스템_181188.md">풀이</a> | 2026-02-26 |  |  |
+| 구현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265" target="_blank">🍰 롤케이크 자르기</a> | Prog | <a href="./solutions/Implementation/롤케이크자르기_132265.md">풀이</a> | 2026-02-26 |  |  |
 | Greedy | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884" target="_blank">📷 단속카메라</a> | Prog | <a href="./solutions/Greedy/단속카메라_42884.md">풀이</a> | 2026-02-26 |  | ✅ |
 | DP | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12913" target="_blank">🏡 땅따먹기</a> | Prog | <a href="./solutions/DP/땅따먹기_12913.md">풀이</a> | 2026-02-26 |  |  |
 | 구현 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_blank">🔤 영어 끝말잇기</a> | Prog | <a href="./solutions/Implementation/영어끝말잇기_12981.md">풀이</a> | 2026-02-26 |  |  |
