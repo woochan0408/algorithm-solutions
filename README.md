@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19941" target="_blank">🍔 햄버거 분배</a> | 백준 | <a href="./solutions/Greedy/햄버거분배_19941.md">풀이</a> | 2026-02-27 |  |  |
 | 그리디 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927" target="_blank">⛏️ 광물 캐기</a> | Prog | <a href="./solutions/Greedy/광물캐기_172927.md">풀이</a> | 2026-02-27 | 그리디 VS 백트래킹 | ✅ |
 | 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256" target="_blank">📱 키패드 누르기</a> | Prog | <a href="./solutions/Implementation/키패드누르기_67256.md">풀이</a> | 2026-02-27 |  |  |
 | Brute_Force | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72411" target="_blank">🍽️ 메뉴 리뉴얼</a> | Prog | <a href="./solutions/Brute_Force/메뉴리뉴얼_72411.md">풀이</a> | 2026-02-26 |  | ✅ |
