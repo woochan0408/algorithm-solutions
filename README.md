@@ -68,6 +68,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Implementation | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/18428" target="_blank">🔍 감시 피하기</a> | 백준 | <a href="./solutions/Implementation/감시피하기_18428.md">풀이</a> | 2026-03-01 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1351" target="_blank">♾️ 무한 수열</a> | 백준 | <a href="./solutions/DP/무한수열_1351.md">풀이</a> | 2026-03-01 |  |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19941" target="_blank">🍔 햄버거 분배</a> | 백준 | <a href="./solutions/Greedy/햄버거분배_19941.md">풀이</a> | 2026-02-27 |  |  |
 | 그리디 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927" target="_blank">⛏️ 광물 캐기</a> | Prog | <a href="./solutions/Greedy/광물캐기_172927.md">풀이</a> | 2026-02-27 | 그리디 VS 백트래킹 | ✅ |
