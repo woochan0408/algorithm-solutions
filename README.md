@@ -24,6 +24,13 @@
 ![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
 ![투포인터](https://img.shields.io/badge/투포인터-6-009688?style=flat-square)
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
+<br>
+![그래프](https://img.shields.io/badge/그래프-0-5C6BC0?style=flat-square)
+![수학](https://img.shields.io/badge/수학-0-673AB7?style=flat-square)
+![세그먼트트리](https://img.shields.io/badge/세그먼트트리-0-795548?style=flat-square)
+![슬라이딩윈도우](https://img.shields.io/badge/슬라이딩윈도우-0-00ACC1?style=flat-square)
+![문자열](https://img.shields.io/badge/문자열-0-F44336?style=flat-square)
+![위상정렬](https://img.shields.io/badge/위상정렬-0-4CAF50?style=flat-square)
 
 > 코딩테스트 문제풀이 기록
 
@@ -68,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Graph | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1647" target="_blank">🏘️ 도시 분할 계획</a> | 백준 | <a href="./solutions/Graph/도시분할계획_1647.md">풀이</a> | 2026-03-01 | MST 첫 풀이 | ✅ |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/18428" target="_blank">🔍 감시 피하기</a> | 백준 | <a href="./solutions/Implementation/감시피하기_18428.md">풀이</a> | 2026-03-01 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/1351" target="_blank">♾️ 무한 수열</a> | 백준 | <a href="./solutions/DP/무한수열_1351.md">풀이</a> | 2026-03-01 |  |  |
 | 그리디 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/19941" target="_blank">🍔 햄버거 분배</a> | 백준 | <a href="./solutions/Greedy/햄버거분배_19941.md">풀이</a> | 2026-02-27 |  |  |
