@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/문자열-4CAF50"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59047" target="_blank">이름에 el이 들어가는 동물 찾기</a> | 프로그래머스 | <a href="./solves/프로그래머스_59047.md">풀이</a> | 2026-03-02 |  | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/CTE-3F51B5"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339" target="_blank">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_157339_2.md">풀이</a> | 2026-02-27 | 재풀이했는데 또 풀자. 중요문항 | ✅ |
 | <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131123" target="_blank">즐겨찾기가 가장 많은 식당 정보 출력하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_131123_2.md">풀이</a> | 2025-02-25 |  |  |
 | <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/날짜-009688"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/151138" target="_blank">자동차 대여 기록에서 장기/단기 대여 구분하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_151138.md">풀이</a> | 2026-02-22 |  | ✅ |
