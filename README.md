@@ -21,7 +21,7 @@
 ![유니온파인드](https://img.shields.io/badge/유니온파인드-1-5C6BC0?style=flat-square)
 ![스택/큐](https://img.shields.io/badge/스택%2F큐-7-3F51B5?style=flat-square)
 ![트리](https://img.shields.io/badge/트리-1-8BC34A?style=flat-square)
-![비트마스크](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
+![비트마스킹](https://img.shields.io/badge/비트마스킹-0-607D8B?style=flat-square)
 ![투포인터](https://img.shields.io/badge/투포인터-6-009688?style=flat-square)
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
 <br>
