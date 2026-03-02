@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42898" target="_blank">🌧️ 등굣길</a> | Prog | <a href="./solutions/DP/등굣길_42898.md">풀이</a> | 2026-03-02 |  | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/3109" target="_blank">🍞 빵집</a> | 백준 | <a href="./solutions/Backtracking/빵집_3109.md">풀이</a> | 2026-03-01 | 백트래킹 + 그리디 | ✅ |
 | Graph | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1647" target="_blank">🏘️ 도시 분할 계획</a> | 백준 | <a href="./solutions/Graph/도시분할계획_1647.md">풀이</a> | 2026-03-01 | MST 첫 풀이 | ✅ |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/18428" target="_blank">🔍 감시 피하기</a> | 백준 | <a href="./solutions/Implementation/감시피하기_18428.md">풀이</a> | 2026-03-01 |  |  |
