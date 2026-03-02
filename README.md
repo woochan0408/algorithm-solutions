@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 최단경로 | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/2211" target="_blank">💻 네트워크 복구</a> | 백준 | <a href="./solutions/Shortest_Path/네트워크복구_2211.md">풀이</a> | 2026-03-02 |  |  |
 | 브루트포스 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/14500" target="_blank">🧩 테트로미노</a> | 백준 | <a href="./solutions/Brute_Force/테트로미노_14500.md">풀이</a> | 2026-03-02 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/11051" target="_blank">🔢 이항 계수 2</a> | 백준 | <a href="./solutions/DP/이항계수2_11051.md">풀이</a> | 2026-03-02 |  |  |
 | 구현 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628" target="_blank">🔄 이중우선순위큐</a> | Prog | <a href="./solutions/Implementation/이중우선순위큐_42628.md">풀이</a> | 2026-03-02 |  |  |
