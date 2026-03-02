@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 구현 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628" target="_blank">🔄 이중우선순위큐</a> | Prog | <a href="./solutions/Implementation/이중우선순위큐_42628.md">풀이</a> | 2026-03-02 |  |  |
 | 이분탐색 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">🪨 징검다리 건너기</a> | Prog | <a href="./solutions/Binary_Search/징검다리건너기_64062.md">풀이</a> | 2026-03-02 |  |  |
 | DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42898" target="_blank">🌧️ 등굣길</a> | Prog | <a href="./solutions/DP/등굣길_42898.md">풀이</a> | 2026-03-02 |  | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/3109" target="_blank">🍞 빵집</a> | 백준 | <a href="./solutions/Backtracking/빵집_3109.md">풀이</a> | 2026-03-01 | 백트래킹 + 그리디 | ✅ |
