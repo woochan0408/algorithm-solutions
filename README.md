@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 유니온파인드 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/24542" target="_blank">🤝 튜터-튜티 관계의 수</a> | 백준 | <a href="./solutions/Union_Find/튜터-튜티관계의수_24542.md">풀이</a> | 2026-03-03 | Union by size 배열 활용, 기초문제| ✅ |
 | 백트래킹 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164" target="_blank">✈️ 여행경로</a> | Prog | <a href="./solutions/Backtracking/여행경로_43164.md">풀이</a> | 2026-03-03 | DFS심화 여유되면 오답노트하기 | ✅ |
 | 투포인터 | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/178870" target="_blank">🔗 연속된 부분 수열의 합</a> | Prog | <a href="./solutions/Two_Pointer/연속된부분수열의합_178870.md">풀이</a> | 2026-03-03 |  |  |
 | Backtracking | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064" target="_blank">🚫 불량 사용자</a> | Prog | <a href="./solutions/Backtracking/불량사용자_64064.md">풀이</a> | 2026-03-03 | FrozenSet |  |
