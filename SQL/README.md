@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/윈도우%20함수-E91E63"> <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> | <a href="https://www.hackerrank.com/challenges/occupations/problem" target="_blank">Occupations</a> | 해커랭크 | <a href="./solves/해커랭크_Occupations.md">풀이</a> | 2026-03-03 | 정말 중요한 문제 | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/날짜-009688"> <img src="https://img.shields.io/badge/CTE-3F51B5"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132204" target="_blank">취소되지 않은 진료 예약 조회하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_132204.md">풀이</a> | 2026-03-03 |  |  |
 | <img src="https://img.shields.io/badge/문자열-4CAF50"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59047" target="_blank">이름에 el이 들어가는 동물 찾기</a> | 프로그래머스 | <a href="./solves/프로그래머스_59047.md">풀이</a> | 2026-03-02 |  | ✅ |
 | <img src="https://img.shields.io/badge/JOIN-4A90D9"> <img src="https://img.shields.io/badge/서브쿼리-2E86AB"> <img src="https://img.shields.io/badge/CTE-3F51B5"> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339" target="_blank">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a> | 프로그래머스 | <a href="./solves/프로그래머스_157339_2.md">풀이</a> | 2026-02-27 | 재풀이했는데 또 풀자. 중요문항 | ✅ |
