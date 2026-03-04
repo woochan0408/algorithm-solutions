@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/1520" target="_blank">⛰️ 내리막 길</a> | 백준 | <a href="./solutions/DP/내리막길_1520.md">풀이</a> | 2026-03-04 | DP VS 백트래킹 정리 잘 해둠 | ✅ |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/10026" target="_blank">🎨 적록색약</a> | 백준 | <a href="./solutions/BFS_DFS/적록색약_10026.md">풀이</a> | 2026-03-03 |  |  |
 | 유니온파인드 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/24542" target="_blank">🤝 튜터-튜티 관계의 수</a> | 백준 | <a href="./solutions/Union_Find/튜터-튜티관계의수_24542.md">풀이</a> | 2026-03-03 | Union by size 배열 활용, 기초문제| ✅ |
 | 백트래킹 | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164" target="_blank">✈️ 여행경로</a> | Prog | <a href="./solutions/Backtracking/여행경로_43164.md">풀이</a> | 2026-03-03 | DFS심화 여유되면 오답노트하기 | ✅ |
