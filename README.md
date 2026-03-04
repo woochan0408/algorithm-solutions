@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540" target="_blank">🏝️ 무인도 여행</a> | Prog | <a href="./solutions/BFS_DFS/무인도여행_154540.md">풀이</a> | 2026-03-04 |  |  |
 | Graph | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1197" target="_blank">🌲 최소 스패닝 트리</a> | 백준 | <a href="./solutions/Graph/최소스패닝트리_1197.md">풀이</a> | 2026-03-04 |  | |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/33677" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/DP/푸앙이와콩나무_33677.md">풀이</a> | 2026-03-04 | 3번째 오답노트. 한번더 더 풀어보자 | ✅ |
 | Greedy | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1715" target="_blank">🃏 카드 정렬하기</a> | 백준 | <a href="./solutions/Greedy/카드정렬하기_1715.md">풀이</a> | 2026-03-04 |  |  |
