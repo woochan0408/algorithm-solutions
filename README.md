@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-170%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-171%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-29-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
@@ -25,7 +25,7 @@
 ![투포인터](https://img.shields.io/badge/투포인터-7-009688?style=flat-square)
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
 <br>
-![그래프](https://img.shields.io/badge/그래프-1-5C6BC0?style=flat-square)
+![그래프](https://img.shields.io/badge/그래프-2-5C6BC0?style=flat-square)
 ![수학](https://img.shields.io/badge/수학-0-673AB7?style=flat-square)
 ![세그먼트트리](https://img.shields.io/badge/세그먼트트리-0-795548?style=flat-square)
 ![슬라이딩윈도우](https://img.shields.io/badge/슬라이딩윈도우-0-00ACC1?style=flat-square)
