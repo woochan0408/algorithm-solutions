@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| DP | ●●○ | <a href="#" target="_blank">🐜 개미 전사</a> | 이코테 | <a href="./solutions/DP/개미전사_p220.md">풀이</a> | 2026-03-05 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/14226" target="_blank">😀 이모티콘</a> | 백준 | <a href="./solutions/BFS_DFS/이모티콘_14226.md">풀이</a> | 2026-03-05 | 좋은 문제. 알고리즘 판단기준 잘 정리해둠 |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/16236" target="_blank">🦈 아기 상어</a> | 백준 | <a href="./solutions/BFS_DFS/아기상어_16236_2.md">풀이</a> | 2026-03-05 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1106" target="_blank">🏨 호텔</a> | 백준 | <a href="./solutions/DP/호텔_1106.md">풀이</a> | 2026-03-04 |  | ✅ |
