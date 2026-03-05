@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Graph | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1967" target="_blank">🌳 트리의 지름</a> | 백준 | <a href="./solutions/Graph/트리의지름_1967.md">풀이</a> | 2026-03-05 | 트리에서 가장 먼 노드 |  |
 | 최단경로 | ●●● | 📡 전보 | 이코테 | <a href="./solutions/Shortest_Path/전보_p262.md">풀이</a> | 2026-03-05 |  |  |
 | DP | ●●○ | <a href="#" target="_blank">🐜 개미 전사</a> | 이코테 | <a href="./solutions/DP/개미전사_p220.md">풀이</a> | 2026-03-05 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://boj.kr/14226" target="_blank">😀 이모티콘</a> | 백준 | <a href="./solutions/BFS_DFS/이모티콘_14226.md">풀이</a> | 2026-03-05 | 좋은 문제. 알고리즘 판단기준 잘 정리해둠 |  |
