@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/16236" target="_blank">🦈 아기 상어</a> | 백준 | <a href="./solutions/BFS_DFS/아기상어_16236_2.md">풀이</a> | 2026-03-05 |  |  |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1106" target="_blank">🏨 호텔</a> | 백준 | <a href="./solutions/DP/호텔_1106.md">풀이</a> | 2026-03-04 |  | ✅ |
 | 백트래킹 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/9663" target="_blank">👑 N-Queen</a> | 백준 | <a href="./solutions/Backtracking/N-Queen_9663.md">풀이</a> | 2026-03-04 | 다시풀긴 해야되는데.. 귀찮다. |  |
 | BFS/DFS | Lv.2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540" target="_blank">🏝️ 무인도 여행</a> | Prog | <a href="./solutions/BFS_DFS/무인도여행_154540.md">풀이</a> | 2026-03-04 |  |  |
