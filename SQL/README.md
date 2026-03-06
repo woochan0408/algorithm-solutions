@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://velog.io/@tesabel/SQL-자작문제-배틀-래퍼-디스전" target="_blank">배틀 래퍼 디스전 - 관대화 지수</a> | 자체제작 | <a href="./solves/자체제작_배틀래퍼디스전.md">풀이</a> | 2026-03-06 |  |  |
 | <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://velog.io/@tesabel/SQL-자작문제-아이돌-서바이벌" target="_blank">아이돌 서바이벌 — 관대화 지수</a> | 자작문제 | <a href="./solves/자작문제_아이돌서바이벌.md">풀이</a> | 2026-03-06 |  |  |
 | <img src="https://img.shields.io/badge/윈도우%20함수-E91E63"> <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> | <a href="https://velog.io/@tesabel/소환사-협곡-KDA-스냅샷-리포트-문제" target="_blank">소환사 협곡 KDA 스냅샷 리포트</a> | 자작문제 | <a href="./solves/자작문제_KDA스냅샷리포트.md">풀이</a> | 2026-03-05 | 느낀점 적어둔거 계속 인지하면서 풀기. | ✅ |
 | <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/윈도우%20함수-E91E63"> <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> | <a href="https://velog.io/@tesabel/SQL-AI-자작문제-와이너리-빈티지-경매-투자-등급-분석-91vbwmw0" target="_blank">SQL AI 자작문제 : 와이너리 빈티지 경매 투자 등급 분석</a> | Velog | <a href="./solves/Velog_와이너리경매투자등급.md">풀이</a> | 2026-03-05 |  |  |
