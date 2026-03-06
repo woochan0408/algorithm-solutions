@@ -4,11 +4,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-182%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-183%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-32-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
-![DP](https://img.shields.io/badge/DP-28-FF5252?style=flat-square)
+![DP](https://img.shields.io/badge/DP-29-FF5252?style=flat-square)
 ![그리디](https://img.shields.io/badge/그리디-20-FFA000?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-8-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-4-FFCA28?style=flat-square)
