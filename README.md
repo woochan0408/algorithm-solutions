@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Implementation | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/16235" target="_blank">🌳 나무 재테크</a> | 백준 | <a href="./solutions/Implementation/나무재테크_16235.md">풀이</a> | 2026-03-06 |  | ✅ |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/5525" target="_blank">🔤 IOIOI</a> | 백준 | <a href="./solutions/Implementation/IOIOI_5525.md">풀이</a> | 2026-03-05 |  |  |
 | Graph | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/1967" target="_blank">🌳 트리의 지름</a> | 백준 | <a href="./solutions/Graph/트리의지름_1967.md">풀이</a> | 2026-03-05 | 트리에서 가장 먼 노드 |  |
 | 최단경로 | ●●● | 📡 전보 | 이코테 | <a href="./solutions/Shortest_Path/전보_p262.md">풀이</a> | 2026-03-05 |  |  |
