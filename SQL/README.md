@@ -4,6 +4,7 @@
 
 | 키워드 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | RE? |
 |--------|------|------|------|---------|---------|----------|
+| <img src="https://img.shields.io/badge/GROUP%20BY-9B59B6"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://velog.io/@tesabel/SQL-자작문제-UFO-목격-신고-집계" target="_blank">UFO 목격 신고 집계</a> | 자작문제 | <a href="./solves/자작문제_UFO목격신고집계.md">풀이</a> | 2026-03-06 |  |  |
 | <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/NULL%20처리-F44336"> | <a href="https://velog.io/@tesabel/SQL-자작문제-배틀-래퍼-디스전" target="_blank">배틀 래퍼 디스전 - 관대화 지수</a> | 자체제작 | <a href="./solves/자체제작_배틀래퍼디스전.md">풀이</a> | 2026-03-06 |  |  |
 | <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/JOIN-4A90D9"> | <a href="https://velog.io/@tesabel/SQL-자작문제-아이돌-서바이벌" target="_blank">아이돌 서바이벌 — 관대화 지수</a> | 자작문제 | <a href="./solves/자작문제_아이돌서바이벌.md">풀이</a> | 2026-03-06 |  |  |
 | <img src="https://img.shields.io/badge/윈도우%20함수-E91E63"> <img src="https://img.shields.io/badge/CTE-3F51B5"> <img src="https://img.shields.io/badge/CASE%20WHEN-FF9800"> | <a href="https://velog.io/@tesabel/소환사-협곡-KDA-스냅샷-리포트-문제" target="_blank">소환사 협곡 KDA 스냅샷 리포트</a> | 자작문제 | <a href="./solves/자작문제_KDA스냅샷리포트.md">풀이</a> | 2026-03-05 | 느낀점 적어둔거 계속 인지하면서 풀기. | ✅ |
