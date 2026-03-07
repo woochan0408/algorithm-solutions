@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Implementation | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627" target="_blank">💿 디스크 컨트롤러</a> | Prog | <a href="./solutions/Implementation/디스크컨트롤러_42627_2.md">풀이</a> | 2026-03-07 | 오답노트 |  |
 | Shortest_Path | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67259" target="_blank">🏎️ 경주로 건설</a> | Prog | <a href="./solutions/Shortest_Path/경주로건설_67259.md">풀이</a> | 2026-03-06 |  | ✅ |
 | DP | ●●○ | 💰 효율적인 화폐 구성 | 이코테 | <a href="./solutions/DP/효율적인화폐구성_p226.md">풀이</a> | 2026-03-06 | knapsack 한번 더 정리 |  |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/16234" target="_blank">🌍 인구 이동</a> | 백준 | <a href="./solutions/Implementation/인구이동_16234.md">풀이</a> | 2026-03-06 |  |  |
