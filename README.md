@@ -75,6 +75,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀이 | 날짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Shortest_Path | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67259" target="_blank">🏎️ 경주로 건설</a> | Prog | <a href="./solutions/Shortest_Path/경주로건설_67259.md">풀이</a> | 2026-03-06 |  | ✅ |
 | DP | ●●○ | 💰 효율적인 화폐 구성 | 이코테 | <a href="./solutions/DP/효율적인화폐구성_p226.md">풀이</a> | 2026-03-06 | knapsack 한번 더 정리 |  |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/16234" target="_blank">🌍 인구 이동</a> | 백준 | <a href="./solutions/Implementation/인구이동_16234.md">풀이</a> | 2026-03-06 |  |  |
 | Implementation | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://boj.kr/16235" target="_blank">🌳 나무 재테크</a> | 백준 | <a href="./solutions/Implementation/나무재테크_16235.md">풀이</a> | 2026-03-06 |  | ✅ |
