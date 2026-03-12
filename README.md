@@ -40,22 +40,13 @@
 
 ## 📁 알고리즘별 분류
 
-<div align="center">
-
-| 탐색 | 그래프 | 자료구조 | 최적화 | 기법 |
-|:---:|:---:|:---:|:---:|:---:|
-| [BFS/DFS](./solutions/BFS_DFS) | [그래프](./solutions/Graph) | [스택/큐](./solutions/Stack_Queue) | [DP](./solutions/DP) | [구현](./solutions/Implementation) |
-| [이분탐색](./solutions/Binary_Search) | [최단경로](./solutions/Shortest_Path) | [트리](./solutions/Tree) | [그리디](./solutions/Greedy) | [백트래킹](./solutions/Backtracking) |
-| [브루트포스](./solutions/Brute_Force) | [위상정렬](./solutions/Topological_Sort) | [세그먼트트리](./solutions/Segment_Tree) | [분할정복](./solutions/Divide_Conquer) | [비트마스킹](./solutions/Bitmask) |
-|  | [유니온파인드](./solutions/Union_Find) |  |  | [투포인터](./solutions/Two_Pointer) |
-|  |  |  |  | [슬라이딩윈도우](./solutions/Sliding_Window) |
-|  |  |  |  | [문자열](./solutions/String) |
-|  |  |  |  | [정렬](./solutions/Sorting) |
-|  |  |  |  | [수학](./solutions/Math) |
-|  |  |  |  | [누적합](./solutions/Prefix_Sum) |
-|  |  |  |  | [기타](./solutions/Etc) |
-
-</div>
+| 분류 | 알고리즘 |
+|:---:|:---|
+| 탐색 | [BFS/DFS](./solutions/BFS_DFS) · [이분탐색](./solutions/Binary_Search) · [브루트포스](./solutions/Brute_Force) |
+| 그래프 | [그래프](./solutions/Graph) · [최단경로](./solutions/Shortest_Path) · [위상정렬](./solutions/Topological_Sort) · [유니온파인드](./solutions/Union_Find) |
+| 자료구조 | [스택/큐](./solutions/Stack_Queue) · [트리](./solutions/Tree) · [세그먼트트리](./solutions/Segment_Tree) |
+| 최적화 | [DP](./solutions/DP) · [그리디](./solutions/Greedy) · [분할정복](./solutions/Divide_Conquer) |
+| 기법 | [구현](./solutions/Implementation) · [백트래킹](./solutions/Backtracking) · [비트마스킹](./solutions/Bitmask) · [투포인터](./solutions/Two_Pointer) · [슬라이딩윈도우](./solutions/Sliding_Window) · [문자열](./solutions/String) · [정렬](./solutions/Sorting) · [수학](./solutions/Math) · [누적합](./solutions/Prefix_Sum) · [기타](./solutions/Etc) |
 
 ---
 
