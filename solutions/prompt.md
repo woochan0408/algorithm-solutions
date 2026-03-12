@@ -125,18 +125,18 @@
 
 ### 테이블 헤더
 `````markdown
-| 유형 | 난이도 | 문제 | 출처 | 풀이 | 푼 날짜 | Comment | 다시풀기 |
+| 유형 | 난이도 | 문제 | 출처 | 풀&#8288;이 | 푼&#8288;날&#8288;짜 | Comment | 다시풀기 |
 |------|--------|------|------|------|---------|---------|----------|
 `````
 
 ### 백준 (티어 이미지)
 `````html
-| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/17069" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_17069.md">풀이</a> | 2026-01-14 |  | ✅ |
+| BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="https://boj.kr/17069" target="_blank">🌱 푸앙이와 콩나무</a> | 백준 | <a href="./solutions/BFS_DFS/푸앙이와콩나무_17069.md">풀&#8288;이</a> | 2026&#8209;01&#8209;14 |  | ✅ |
 `````
 
 ### 프로그래머스 (레벨 텍스트)
 `````html
-| DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12345" target="_blank">🔢 문제이름</a> | Prog | <a href="./solutions/DP/문제이름_12345.md">풀이</a> | 2026-01-14 |  |  |
+| DP | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12345" target="_blank">🔢 문제이름</a> | Prog | <a href="./solutions/DP/문제이름_12345.md">풀&#8288;이</a> | 2026&#8209;01&#8209;14 |  |  |
 `````
 
 ### 규칙
