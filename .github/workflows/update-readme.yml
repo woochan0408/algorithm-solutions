@@ -1,14 +1,21 @@
-name: Update README Stats
+name: Update README
 
 on:
   push:
     branches: [main]
     paths:
       - 'solutions/**'
+      - 'README.md'
+      - 'scripts/**'
+      - '.github/workflows/update-readme.yml'
   workflow_dispatch:  # 수동 실행 가능
 
+permissions:
+  contents: write
+
 jobs:
-  update-stats:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     
     steps:
@@ -20,7 +27,7 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Update README stats
+      - name: Update README content
         run: python scripts/update_stats.py
         
       - name: Commit changes
@@ -31,6 +38,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📊 Auto-update problem stats"
+            git commit -m "📝 Auto-update README"
             git push
           fi
