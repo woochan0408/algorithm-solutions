@@ -197,6 +197,12 @@ def extract_retry_problems(content: str) -> list[dict]:
     return retry_problems
 
 
+def format_retry_date(date_text: str) -> str:
+    """다시 풀 목록에 표시할 날짜 문자열을 정리합니다."""
+    normalized = html.unescape(date_text).strip()
+    return normalized.replace("\u2011", "-")
+
+
 def build_retry_section(retry_problems: list[dict]) -> str:
     """다시 풀 문제 섹션 Markdown을 생성합니다."""
     if not retry_problems:
@@ -209,6 +215,8 @@ def build_retry_section(retry_problems: list[dict]) -> str:
     ]
 
     for problem in retry_problems:
+        display_date = format_retry_date(problem["date"])
+
         if problem["problem_url"]:
             problem_link = f"[{problem['problem_label']}]({problem['problem_url']})"
         else:
@@ -216,7 +224,7 @@ def build_retry_section(retry_problems: list[dict]) -> str:
 
         solution_part = f" · [풀이]({problem['solution_url']})" if problem["solution_url"] else ""
         category_part = f" · `{problem['category']}`" if problem["category"] else ""
-        lines.append(f"- `{problem['date']}` {problem_link}{solution_part}{category_part}")
+        lines.append(f"- `{display_date}` {problem_link}{solution_part}{category_part}")
 
     lines.extend(["", "</details>"])
     return "\n".join(lines)
