@@ -39,6 +39,19 @@
 ---
 
 
+## 📁 알고리즘별 분류
+
+| 분류 | 알고리즘 |
+|:---:|:---|
+| 탐색 | [BFS/DFS](./solutions/BFS_DFS) · [이분탐색](./solutions/Binary_Search) · [브루트포스](./solutions/Brute_Force) |
+| 그래프 | [그래프](./solutions/Graph) · [최단경로](./solutions/Shortest_Path) · [위상정렬](./solutions/Topological_Sort) · [유니온파인드](./solutions/Union_Find) |
+| 자료구조 | [스택/큐](./solutions/Stack_Queue) · [트리](./solutions/Tree) · [세그먼트트리](./solutions/Segment_Tree) |
+| 최적화 | [DP](./solutions/DP) · [그리디](./solutions/Greedy) · [분할정복](./solutions/Divide_Conquer) |
+| 기법 | [구현](./solutions/Implementation) · [백트래킹](./solutions/Backtracking) · [비트마스킹](./solutions/Bitmask) · [투포인터](./solutions/Two_Pointer) · [슬라이딩윈도우](./solutions/Sliding_Window) · [문자열](./solutions/String) · [정렬](./solutions/Sorting) · [수학](./solutions/Math) · [누적합](./solutions/Prefix_Sum) · [기타](./solutions/Etc) |
+
+---
+
+
 ## 🗄️ SQL
 
 <div align="center">
@@ -246,17 +259,5 @@
 | 분할정복 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://boj.kr/2630" target="_blank">🟦 색종이 만들기</a> | 백준 | <a href="./solutions/Divide_Conquer/색종이만들기_2630.md">풀&#8288;이</a> | 2026&#8209;01&#8209;14 |  |  |
 
 </div>
-
----
-
-## 📁 알고리즘별 분류
-
-| 분류 | 알고리즘 |
-|:---:|:---|
-| 탐색 | [BFS/DFS](./solutions/BFS_DFS) · [이분탐색](./solutions/Binary_Search) · [브루트포스](./solutions/Brute_Force) |
-| 그래프 | [그래프](./solutions/Graph) · [최단경로](./solutions/Shortest_Path) · [위상정렬](./solutions/Topological_Sort) · [유니온파인드](./solutions/Union_Find) |
-| 자료구조 | [스택/큐](./solutions/Stack_Queue) · [트리](./solutions/Tree) · [세그먼트트리](./solutions/Segment_Tree) |
-| 최적화 | [DP](./solutions/DP) · [그리디](./solutions/Greedy) · [분할정복](./solutions/Divide_Conquer) |
-| 기법 | [구현](./solutions/Implementation) · [백트래킹](./solutions/Backtracking) · [비트마스킹](./solutions/Bitmask) · [투포인터](./solutions/Two_Pointer) · [슬라이딩윈도우](./solutions/Sliding_Window) · [문자열](./solutions/String) · [정렬](./solutions/Sorting) · [수학](./solutions/Math) · [누적합](./solutions/Prefix_Sum) · [기타](./solutions/Etc) |
 
 ---
