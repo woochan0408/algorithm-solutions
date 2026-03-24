@@ -78,6 +78,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 구현 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/14595" target="_blank">🚪 동방 프로젝트 (Large)</a> | 백준 | <a href="./solutions/Implementation/동방프로젝트(Large)_14595.md">풀&#8288;이</a> | 2026&#8209;03&#8209;24 | 좋은 문제 |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://boj.kr/14594" target="_blank">🚪 동방 프로젝트 (Small)</a> | 백준 | <a href="./solutions/Implementation/동방프로젝트(Small)_14594.md">풀&#8288;이</a> | 2026&#8209;03&#8209;23 |  |  |
 | Implementation | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627" target="_blank">💿 디스크 컨트롤러</a> | Prog | <a href="./solutions/Implementation/디스크컨트롤러_42627_2.md">풀&#8288;이</a> | 2026&#8209;03&#8209;07 | 오답노트 |  |
 | Shortest_Path | Lv.3 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67259" target="_blank">🏎️ 경주로 건설</a> | Prog | <a href="./solutions/Shortest_Path/경주로건설_67259.md">풀&#8288;이</a> | 2026&#8209;03&#8209;06 |  | ✅ |
