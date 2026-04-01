@@ -78,6 +78,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| Math | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/17626" target="_blank">🔢 Four Squares</a> | 백준 | <a href="./solutions/Math/FourSquares_17626.md">풀&#8288;이</a> | 2026&#8209;04&#8209;01 |  | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11727" target="_blank">🧩 2×n 타일링 2</a> | 백준 | <a href="./solutions/DP/2×n타일링2_11727.md">풀&#8288;이</a> | 2026&#8209;03&#8209;28 |  |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://boj.kr/14595" target="_blank">🚪 동방 프로젝트 (Large)</a> | 백준 | <a href="./solutions/Implementation/동방프로젝트(Large)_14595.md">풀&#8288;이</a> | 2026&#8209;03&#8209;24 | 좋은 문제 |  |
 | 구현 | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://boj.kr/14594" target="_blank">🚪 동방 프로젝트 (Small)</a> | 백준 | <a href="./solutions/Implementation/동방프로젝트(Small)_14594.md">풀&#8288;이</a> | 2026&#8209;03&#8209;23 |  |  |
