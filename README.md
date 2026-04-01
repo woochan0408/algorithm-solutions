@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-188%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-189%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-32-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
@@ -26,7 +26,7 @@
 ![기타](https://img.shields.io/badge/기타-2-9E9E9E?style=flat-square)
 <br>
 ![그래프](https://img.shields.io/badge/그래프-3-5C6BC0?style=flat-square)
-![수학](https://img.shields.io/badge/수학-0-673AB7?style=flat-square)
+![수학](https://img.shields.io/badge/수학-1-673AB7?style=flat-square)
 ![세그먼트트리](https://img.shields.io/badge/세그먼트트리-0-795548?style=flat-square)
 ![슬라이딩윈도우](https://img.shields.io/badge/슬라이딩윈도우-0-00ACC1?style=flat-square)
 ![문자열](https://img.shields.io/badge/문자열-0-F44336?style=flat-square)
@@ -283,8 +283,9 @@
 
 <!-- retry-problems-start -->
 <details>
-<summary><strong>총 49문제</strong></summary>
+<summary><strong>총 50문제</strong></summary>
 
+- `2026-04-01` [🔢 Four Squares](https://boj.kr/17626) · [풀이](./solutions/Math/FourSquares_17626.md) · `Math`
 - `2026-03-06` [🏎️ 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) · [풀이](./solutions/Shortest_Path/경주로건설_67259.md) · `Shortest_Path`
 - `2026-03-06` [🌳 나무 재테크](https://boj.kr/16235) · [풀이](./solutions/Implementation/나무재테크_16235.md) · `Implementation`
 - `2026-03-04` [🏨 호텔](https://boj.kr/1106) · [풀이](./solutions/DP/호텔_1106.md) · `DP`
