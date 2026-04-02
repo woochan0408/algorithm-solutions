@@ -6,9 +6,9 @@
 
 ![Total](https://img.shields.io/badge/Total-190%20problems-0052CC?style=flat-square)
 <br>
-![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-32-00C853?style=flat-square)
+![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-33-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
-![DP](https://img.shields.io/badge/DP-31-FF5252?style=flat-square)
+![DP](https://img.shields.io/badge/DP-30-FF5252?style=flat-square)
 ![그리디](https://img.shields.io/badge/그리디-20-FFA000?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-8-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-4-FFCA28?style=flat-square)
