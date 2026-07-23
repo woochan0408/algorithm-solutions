@@ -78,6 +78,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/468371?language=python3" target="_blank">🚦 노란불 신호등</a> | Prog | <a href="./solutions/Implementation/노란불신호등_468371.md">풀&#8288;이</a> | 2026&#8209;07&#8209;23 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/7569" target="_blank">🍅 토마토</a> | 백준 | <a href="./solutions/BFS_DFS/토마토_7569.md">풀&#8288;이</a> | 2026&#8209;04&#8209;02 |  |  |
 | Math | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/17626" target="_blank">🔢 Four Squares</a> | 백준 | <a href="./solutions/Math/FourSquares_17626.md">풀&#8288;이</a> | 2026&#8209;04&#8209;01 |  | ✅ |
 | DP | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://boj.kr/11727" target="_blank">🧩 2×n 타일링 2</a> | 백준 | <a href="./solutions/DP/2×n타일링2_11727.md">풀&#8288;이</a> | 2026&#8209;03&#8209;28 |  |  |
