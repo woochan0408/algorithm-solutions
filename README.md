@@ -78,6 +78,7 @@
 
 | 유형 | 티어 | 문제 | 출처 | 풀&#8288;이 | 날&#8288;짜 | Comment | RE? |
 |:---:|:----:|:---:|:---:|:---:|:----------:|:---:|:---:|
+| 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/389478?language=python3" target="_blank">📦 택배 상자 꺼내기</a> | Prog | <a href="./solutions/Implementation/택배상자꺼내기_389478.md">풀&#8288;이</a> | 2026&#8209;08&#8209;05 | 지그재그 배치를 실제 열 좌표로 변환 | ✅ |
 | 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/388351" target="_blank">⏰ 유연근무제</a> | Prog | <a href="./solutions/Implementation/유연근무제_388351.md">풀&#8288;이</a> | 2026&#8209;07&#8209;28 |  |  |
 | 구현 | Lv.1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/468371?language=python3" target="_blank">🚦 노란불 신호등</a> | Prog | <a href="./solutions/Implementation/노란불신호등_468371.md">풀&#8288;이</a> | 2026&#8209;07&#8209;23 |  |  |
 | BFS/DFS | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://boj.kr/7569" target="_blank">🍅 토마토</a> | 백준 | <a href="./solutions/BFS_DFS/토마토_7569.md">풀&#8288;이</a> | 2026&#8209;04&#8209;02 |  |  |
