@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-192%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-194%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-33-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
@@ -12,14 +12,14 @@
 ![그리디](https://img.shields.io/badge/그리디-20-FFA000?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-8-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-4-FFCA28?style=flat-square)
-![구현](https://img.shields.io/badge/구현-39-FF69B4?style=flat-square)
+![구현](https://img.shields.io/badge/구현-40-FF69B4?style=flat-square)
 <br>
 ![브루트포스](https://img.shields.io/badge/브루트포스-7-E91E63?style=flat-square)
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
 ![백트래킹](https://img.shields.io/badge/백트래킹-15-FF6F00?style=flat-square)
 ![최단경로](https://img.shields.io/badge/최단경로-6-2196F3?style=flat-square)
 ![유니온파인드](https://img.shields.io/badge/유니온파인드-2-5C6BC0?style=flat-square)
-![스택/큐](https://img.shields.io/badge/스택%2F큐-7-3F51B5?style=flat-square)
+![스택/큐](https://img.shields.io/badge/스택%2F큐-8-3F51B5?style=flat-square)
 ![트리](https://img.shields.io/badge/트리-1-8BC34A?style=flat-square)
 ![비트마스킹](https://img.shields.io/badge/비트마스킹-1-607D8B?style=flat-square)
 ![투포인터](https://img.shields.io/badge/투포인터-7-009688?style=flat-square)
@@ -288,8 +288,9 @@
 
 <!-- retry-problems-start -->
 <details>
-<summary><strong>총 50문제</strong></summary>
+<summary><strong>총 51문제</strong></summary>
 
+- `2026-08-05` [📦 택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478?language=python3) · [풀이](./solutions/Implementation/택배상자꺼내기_389478.md) · `구현`
 - `2026-04-01` [🔢 Four Squares](https://boj.kr/17626) · [풀이](./solutions/Math/FourSquares_17626.md) · `Math`
 - `2026-03-06` [🏎️ 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) · [풀이](./solutions/Shortest_Path/경주로건설_67259.md) · `Shortest_Path`
 - `2026-03-06` [🌳 나무 재테크](https://boj.kr/16235) · [풀이](./solutions/Implementation/나무재테크_16235.md) · `Implementation`
