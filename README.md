@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tesabel48)](https://solved.ac/tesabel48)
 
-![Total](https://img.shields.io/badge/Total-194%20problems-0052CC?style=flat-square)
+![Total](https://img.shields.io/badge/Total-195%20problems-0052CC?style=flat-square)
 <br>
 ![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-33-00C853?style=flat-square)
 ![분할정복](https://img.shields.io/badge/분할정복-4-7C4DFF?style=flat-square)
@@ -12,7 +12,7 @@
 ![그리디](https://img.shields.io/badge/그리디-20-FFA000?style=flat-square)
 ![이분탐색](https://img.shields.io/badge/이분탐색-8-00BCD4?style=flat-square)
 ![정렬](https://img.shields.io/badge/정렬-4-FFCA28?style=flat-square)
-![구현](https://img.shields.io/badge/구현-40-FF69B4?style=flat-square)
+![구현](https://img.shields.io/badge/구현-41-FF69B4?style=flat-square)
 <br>
 ![브루트포스](https://img.shields.io/badge/브루트포스-7-E91E63?style=flat-square)
 ![누적합](https://img.shields.io/badge/누적합-2-9E9E9E?style=flat-square)
@@ -289,8 +289,9 @@
 
 <!-- retry-problems-start -->
 <details>
-<summary><strong>총 51문제</strong></summary>
+<summary><strong>총 52문제</strong></summary>
 
+- `2026-08-07` [🏕️ 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198?language=python3) · [풀이](./solutions/Implementation/공원_340198.md) · `구현`
 - `2026-08-05` [📦 택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478?language=python3) · [풀이](./solutions/Implementation/택배상자꺼내기_389478.md) · `구현`
 - `2026-04-01` [🔢 Four Squares](https://boj.kr/17626) · [풀이](./solutions/Math/FourSquares_17626.md) · `Math`
 - `2026-03-06` [🏎️ 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) · [풀이](./solutions/Shortest_Path/경주로건설_67259.md) · `Shortest_Path`
